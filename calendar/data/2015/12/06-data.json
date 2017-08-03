@@ -1,0 +1,1746 @@
+{
+  "count": 30,
+  "error": false,
+  "events": [
+    {
+      "away": {
+        "id": "733ca536-8f86-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/733ca536-8f86-11e4-904b-5254005a5aa0/50",
+        "name": "Cruzeiro",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "087bdf7e-c31a-11e4-ac90-5254005a5aa0",
+        "name": "Serie A"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "26350814-8f86-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/26350814-8f86-11e4-904b-5254005a5aa0/50",
+        "name": "Internacional",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "9b08afa6-dd2e-11e4-9010-5254005a5aa0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "ed3f6bc2-82b4-11e4-b34a-5254005a5aa0",
+        "name": "Serie A",
+        "rank": 139,
+        "region": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "continent": "South America",
+          "id": "fba48b12-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Brazil",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 19:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "1e8ffc0a-9278-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/1e8ffc0a-9278-11e4-bd79-5254005a5aa0/50",
+        "name": "Chapecoense AF",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "087bdf7e-c31a-11e4-ac90-5254005a5aa0",
+        "name": "Serie A"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "7367ebc4-8f86-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7367ebc4-8f86-11e4-904b-5254005a5aa0/50",
+        "name": "Atletico MG",
+        "score": {
+          "current": 3,
+          "halftime": 1
+        }
+      },
+      "id": "9b263c10-dd2e-11e4-9010-5254005a5aa0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "ed3f6bc2-82b4-11e4-b34a-5254005a5aa0",
+        "name": "Serie A",
+        "rank": 139,
+        "region": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "continent": "South America",
+          "id": "fba48b12-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Brazil",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 19:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "3bc8e034-8f85-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/3bc8e034-8f85-11e4-904b-5254005a5aa0/50",
+        "name": "Fluminense",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "087bdf7e-c31a-11e4-ac90-5254005a5aa0",
+        "name": "Serie A"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "1f3e77c6-9278-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/1f3e77c6-9278-11e4-bd79-5254005a5aa0/50",
+        "name": "Figueirense",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "9b3f6910-dd2e-11e4-9010-5254005a5aa0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "ed3f6bc2-82b4-11e4-b34a-5254005a5aa0",
+        "name": "Serie A",
+        "rank": 139,
+        "region": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "continent": "South America",
+          "id": "fba48b12-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Brazil",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 19:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "28148722-8f86-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/28148722-8f86-11e4-904b-5254005a5aa0/50",
+        "name": "Sao Paulo",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "087bdf7e-c31a-11e4-ac90-5254005a5aa0",
+        "name": "Serie A"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "26b31862-8f86-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/26b31862-8f86-11e4-904b-5254005a5aa0/50",
+        "name": "Goias",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "9b59f0fa-dd2e-11e4-9010-5254005a5aa0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "ed3f6bc2-82b4-11e4-b34a-5254005a5aa0",
+        "name": "Serie A",
+        "rank": 139,
+        "region": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "continent": "South America",
+          "id": "fba48b12-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Brazil",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 19:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "3b0a25ea-8f85-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/3b0a25ea-8f85-11e4-904b-5254005a5aa0/50",
+        "name": "Vasco da Gama",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "087bdf7e-c31a-11e4-ac90-5254005a5aa0",
+        "name": "Serie A"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "62bd2360-8f87-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/62bd2360-8f87-11e4-904b-5254005a5aa0/50",
+        "name": "Coritiba",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "9b75b588-dd2e-11e4-9010-5254005a5aa0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "ed3f6bc2-82b4-11e4-b34a-5254005a5aa0",
+        "name": "Serie A",
+        "rank": 139,
+        "region": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "continent": "South America",
+          "id": "fba48b12-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Brazil",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 19:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "25363a64-8f86-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/25363a64-8f86-11e4-904b-5254005a5aa0/50",
+        "name": "Gremio",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "087bdf7e-c31a-11e4-ac90-5254005a5aa0",
+        "name": "Serie A"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "1e8b52fe-9278-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/1e8b52fe-9278-11e4-bd79-5254005a5aa0/50",
+        "name": "Joinville",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "9b8e6da8-dd2e-11e4-9010-5254005a5aa0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "ed3f6bc2-82b4-11e4-b34a-5254005a5aa0",
+        "name": "Serie A",
+        "rank": 139,
+        "region": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "continent": "South America",
+          "id": "fba48b12-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Brazil",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 19:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "0d977f18-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0d977f18-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "CS Universitatea Craiova",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "dd72de04-2241-11e5-b723-525400f795f0",
+        "name": "Liga I"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "0ded721a-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0ded721a-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Steaua Bucuresti",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "id": "b6a69ace-24a1-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "5b55da08-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Romania Liga I",
+        "rank": 199,
+        "region": {
+          "alpha2": "RO",
+          "alpha3": "ROU",
+          "continent": "Europe",
+          "id": "fbfe95d0-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Romania",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 18:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "1e23b342-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/1e23b342-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Cordoba",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "c94277e2-2bd2-11e5-9785-525400f795f0",
+        "name": "Segunda Division"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "9dda7fb8-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/9dda7fb8-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Girona",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "a8f25400-2bd5-11e5-b285-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "b040ee14-80b4-11e4-844d-5254005a5aa0",
+        "name": "LIGA Adelante",
+        "rank": 999,
+        "region": {
+          "alpha2": "ES",
+          "alpha3": "ESP",
+          "continent": "Europe",
+          "id": "fc0e4462-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Spain",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 18:15:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "418e4b06-8f8c-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/418e4b06-8f8c-11e4-917f-5254005a5aa0/50",
+        "name": "Ironi Kiryat Shmona",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "91b8cf38-26fa-11e5-b7a2-525400f795f0",
+        "name": "Ligat HaAl"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "01adddba-8f7f-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/01adddba-8f7f-11e4-917f-5254005a5aa0/50",
+        "name": "Beitar Jerusalem",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "id": "d13cab00-26fc-11e5-b7a2-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "910513f6-82ba-11e4-b34a-5254005a5aa0",
+        "name": "Israel Ligat-Al",
+        "rank": 678,
+        "region": {
+          "alpha2": "IL",
+          "alpha3": "ISR",
+          "continent": "Asia",
+          "id": "fbd2f4ac-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Israel",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 18:15:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "0eea86b8-9295-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0eea86b8-9295-11e4-bd79-5254005a5aa0/50",
+        "name": "Real Garcilaso",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "8c2b5732-97f9-11e5-835d-525400f795f0",
+        "name": "Final Stage"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "1084cdee-9295-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/1084cdee-9295-11e4-bd79-5254005a5aa0/50",
+        "name": "FBC Melgar",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "0906e37e-97fb-11e5-b398-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "9316c114-81f0-11e4-8db6-5254005a5aa0",
+        "name": "Peru Primera Divisi\u00f3n",
+        "rank": 999,
+        "region": {
+          "alpha2": "PE",
+          "alpha3": "PER",
+          "continent": "South America",
+          "id": "fbf98306-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Peru",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 18:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "afb4dac2-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/afb4dac2-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "KAC Kenitra",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "bd003be8-2bac-11e5-ad57-525400f795f0",
+        "name": "Botola Pro"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "b156039c-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/b156039c-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "MAT Tetouan",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "id": "2cbe718a-2bd4-11e5-b285-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "43ce0eb4-80b5-11e4-b578-5254005a5aa0",
+        "name": "Morocco Botola Pro",
+        "rank": 999,
+        "region": {
+          "alpha2": "MA",
+          "alpha3": "MAR",
+          "continent": "Africa",
+          "id": "fbebe494-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Morocco",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 18:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "2e551b8e-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/2e551b8e-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Olhanense",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "f912b564-249c-11e5-8452-525400f795f0",
+        "name": "Segunda Liga"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "2e1e518a-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/2e1e518a-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Farense",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "a5b8afa4-24a1-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "5a9a9ec0-82b6-11e4-b34a-5254005a5aa0",
+        "name": "Segunda Liga",
+        "rank": 999,
+        "region": {
+          "alpha2": "PT",
+          "alpha3": "PRT",
+          "continent": "Europe",
+          "id": "fbfbe556-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Portugal",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 18:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "c999e52e-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/c999e52e-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "CF America",
+        "score": {
+          "current": 3,
+          "halftime": 2
+        }
+      },
+      "competition": {
+        "id": "88086df6-9138-11e5-bdeb-525400f795f0",
+        "name": "Liga MX Apertura Playoff"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "caacaba4-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/caacaba4-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "Pumas",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "c4eb30d8-9704-11e5-b398-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "357e8db6-80b5-11e4-b578-5254005a5aa0",
+        "name": "Mexico Liga MX",
+        "rank": 501,
+        "region": {
+          "alpha2": "MX",
+          "alpha3": "MEX",
+          "continent": "North America",
+          "id": "fbe7c5c6-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Mexico",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 18:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "6d7c1a32-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/6d7c1a32-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "Panathinaikos",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "3e701d10-2bad-11e5-b660-525400f795f0",
+        "name": "Super League"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "6c1e27fc-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/6c1e27fc-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "Veria FC",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "4eccbbba-3a89-11e5-9a55-525400f795f0",
+      "live": true,
+      "live_statistics": "light",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "779fae72-82b9-11e4-b34a-5254005a5aa0",
+        "name": "Greece Super League",
+        "rank": 115,
+        "region": {
+          "alpha2": "GR",
+          "alpha3": "GRC",
+          "continent": "Europe",
+          "id": "fbc518aa-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Greece",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "f0e3b8c8-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/f0e3b8c8-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Dukla Praha",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "f4d8b4b2-249c-11e5-8452-525400f795f0",
+        "name": "1. Division"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "efd71308-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/efd71308-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Viktoria Plzen",
+        "score": {
+          "current": 3,
+          "halftime": 1
+        }
+      },
+      "id": "c0d06142-24a1-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "60686c4a-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Czech Republic Gambrinus League",
+        "rank": 509,
+        "region": {
+          "alpha2": "CZ",
+          "alpha3": "CZE",
+          "continent": "Europe",
+          "id": "fbb5203a-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Czech Republic",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "9e7addb4-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/9e7addb4-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Las Palmas",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "91fb24ee-2bac-11e5-b660-525400f795f0",
+        "name": "Primera Division"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "9d56ca92-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/9d56ca92-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Sporting Gijon",
+        "score": {
+          "current": 3,
+          "halftime": 1
+        }
+      },
+      "id": "371c26c2-2bb1-11e5-b660-525400f795f0",
+      "live": true,
+      "live_statistics": "extended",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4a15891e-80b5-11e4-b578-5254005a5aa0",
+        "name": "La Liga",
+        "rank": 2,
+        "region": {
+          "alpha2": "ES",
+          "alpha3": "ESP",
+          "continent": "Europe",
+          "id": "fc0e4462-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Spain",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:15:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "7ceec750-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.dk"
+        },
+        {
+          "id": "7322bc9a-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.se"
+        },
+        {
+          "id": "1a362f48-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.no"
+        },
+        {
+          "id": "5eff5812-418c-11e5-ade9-525400f795f0",
+          "name": "Viaplay.fi"
+        },
+        {
+          "id": "551a462e-09e0-11e5-b40e-5254005a5aa0",
+          "name": "DR Nu"
+        },
+        {
+          "id": "52515690-304f-11e5-ade9-525400f795f0",
+          "name": "NUTV"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "a2ddcae2-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/a2ddcae2-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "OB",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "e761452c-17bf-11e5-bc4d-5254005a5aa0",
+        "name": "Superleague"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "a41ecae6-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/a41ecae6-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "FC Copenhagen",
+        "score": {
+          "current": 4,
+          "halftime": 2
+        }
+      },
+      "id": "2fde4f2c-185e-11e5-8143-525400f795f0",
+      "live": true,
+      "live_statistics": "extended",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "75cba8ea-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Superleague",
+        "rank": 111,
+        "region": {
+          "alpha2": "DK",
+          "alpha3": "DNK",
+          "continent": "Europe",
+          "id": "fbb5b3c4-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Denmark",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "7ceec750-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.dk"
+        },
+        {
+          "id": "551a462e-09e0-11e5-b40e-5254005a5aa0",
+          "name": "DR Nu"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "c7317dda-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/c7317dda-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Sassuolo",
+        "score": {
+          "current": 3,
+          "halftime": 3
+        }
+      },
+      "competition": {
+        "id": "f34ea670-347c-11e5-b285-525400f795f0",
+        "name": "Serie A"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "c824ba4a-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/c824ba4a-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Sampdoria",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "36708a48-3493-11e5-b285-525400f795f0",
+      "live": true,
+      "live_statistics": "extended",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "881dd5f0-815e-11e4-8db6-5254005a5aa0",
+        "name": "Serie A",
+        "rank": 4,
+        "region": {
+          "alpha2": "IT",
+          "alpha3": "ITA",
+          "continent": "Europe",
+          "id": "fbd388c2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Italy",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "7ceec750-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.dk"
+        },
+        {
+          "id": "7322bc9a-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.se"
+        },
+        {
+          "id": "1a362f48-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.no"
+        },
+        {
+          "id": "5eff5812-418c-11e5-ade9-525400f795f0",
+          "name": "Viaplay.fi"
+        },
+        {
+          "id": "551a462e-09e0-11e5-b40e-5254005a5aa0",
+          "name": "DR Nu"
+        },
+        {
+          "id": "52515690-304f-11e5-ade9-525400f795f0",
+          "name": "NUTV"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "02dafb88-9276-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/02dafb88-9276-11e4-bd79-5254005a5aa0/50",
+        "name": "Anderlecht",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "437df58a-0f78-11e5-926d-5254005a5aa0",
+        "name": "Pro League"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "17078e5e-8f7f-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/17078e5e-8f7f-11e4-917f-5254005a5aa0/50",
+        "name": "Genk",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "8e24cd5c-0f78-11e5-926d-5254005a5aa0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "48320924-80b5-11e4-b578-5254005a5aa0",
+        "name": "Jupiler League",
+        "rank": 103,
+        "region": {
+          "alpha2": "BE",
+          "alpha3": "BEL",
+          "continent": "Europe",
+          "id": "fb9eb854-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Belgium",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "0c387080-9289-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0c387080-9289-11e4-bd79-5254005a5aa0/50",
+        "name": "Dep. Cuenca",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "57bae6be-24a1-11e5-8452-525400f795f0",
+        "name": "Clausura"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "0be4843e-9289-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0be4843e-9289-11e4-bd79-5254005a5aa0/50",
+        "name": "Independiente del Valle",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "9dfedf0e-24a1-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "1ade9c30-80b5-11e4-b578-5254005a5aa0",
+        "name": "Ecuador",
+        "rank": 520,
+        "region": {
+          "alpha2": "EC",
+          "alpha3": "ECU",
+          "continent": "South America",
+          "id": "fbb803ea-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Ecuador",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "0ca1a064-9289-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0ca1a064-9289-11e4-bd79-5254005a5aa0/50",
+        "name": "Dep. Quito",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "57bae6be-24a1-11e5-8452-525400f795f0",
+        "name": "Clausura"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "0c20b3dc-9289-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0c20b3dc-9289-11e4-bd79-5254005a5aa0/50",
+        "name": "El Nacional",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "id": "9e110954-24a1-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "1ade9c30-80b5-11e4-b578-5254005a5aa0",
+        "name": "Ecuador",
+        "rank": 520,
+        "region": {
+          "alpha2": "EC",
+          "alpha3": "ECU",
+          "continent": "South America",
+          "id": "fbb803ea-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Ecuador",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "0bce35a8-9289-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0bce35a8-9289-11e4-bd79-5254005a5aa0/50",
+        "name": "LDU de Quito",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "57bae6be-24a1-11e5-8452-525400f795f0",
+        "name": "Clausura"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "0c5fac9a-9289-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0c5fac9a-9289-11e4-bd79-5254005a5aa0/50",
+        "name": "Universidad Catolica",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "9e2983da-24a1-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "1ade9c30-80b5-11e4-b578-5254005a5aa0",
+        "name": "Ecuador",
+        "rank": 520,
+        "region": {
+          "alpha2": "EC",
+          "alpha3": "ECU",
+          "continent": "South America",
+          "id": "fbb803ea-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Ecuador",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "fdd9bb9e-9296-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/fdd9bb9e-9296-11e4-bd79-5254005a5aa0/50",
+        "name": "River Plate",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "57bae6be-24a1-11e5-8452-525400f795f0",
+        "name": "Clausura"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "3315ecce-9283-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/3315ecce-9283-11e4-bd79-5254005a5aa0/50",
+        "name": "Emelec",
+        "score": {
+          "current": 3,
+          "halftime": 2
+        }
+      },
+      "id": "9e3a54f8-24a1-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "1ade9c30-80b5-11e4-b578-5254005a5aa0",
+        "name": "Ecuador",
+        "rank": 520,
+        "region": {
+          "alpha2": "EC",
+          "alpha3": "ECU",
+          "continent": "South America",
+          "id": "fbb803ea-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Ecuador",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "333011e4-9283-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/333011e4-9283-11e4-bd79-5254005a5aa0/50",
+        "name": "Barcelona SC",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "57bae6be-24a1-11e5-8452-525400f795f0",
+        "name": "Clausura"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "0c9cae7e-9289-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0c9cae7e-9289-11e4-bd79-5254005a5aa0/50",
+        "name": "Mushuc Runa",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "9e4cb9c2-24a1-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "1ade9c30-80b5-11e4-b578-5254005a5aa0",
+        "name": "Ecuador",
+        "rank": 520,
+        "region": {
+          "alpha2": "EC",
+          "alpha3": "ECU",
+          "continent": "South America",
+          "id": "fbb803ea-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Ecuador",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "7f13bb6c-9295-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7f13bb6c-9295-11e4-bd79-5254005a5aa0/50",
+        "name": "Aucas",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "57bae6be-24a1-11e5-8452-525400f795f0",
+        "name": "Clausura"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "0bb730b0-9289-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0bb730b0-9289-11e4-bd79-5254005a5aa0/50",
+        "name": "Liga de Loja",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "id": "9e621e84-24a1-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "1ade9c30-80b5-11e4-b578-5254005a5aa0",
+        "name": "Ecuador",
+        "rank": 520,
+        "region": {
+          "alpha2": "EC",
+          "alpha3": "ECU",
+          "continent": "South America",
+          "id": "fbb803ea-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Ecuador",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "2708a000-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/2708a000-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Braga",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "e6bce556-249c-11e5-8452-525400f795f0",
+        "name": "Primeira Liga"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "255ba40a-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/255ba40a-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Moreirense",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "a4e3ead0-24a1-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4b27b142-80b5-11e4-b578-5254005a5aa0",
+        "name": "Liga ZON Sagres",
+        "rank": 123,
+        "region": {
+          "alpha2": "PT",
+          "alpha3": "PRT",
+          "continent": "Europe",
+          "id": "fbfbe556-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Portugal",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "71916710-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/71916710-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Fenerbahce",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "8ec30656-26f8-11e5-b2e3-525400f795f0",
+        "name": "Super Lig"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "66a599b6-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/66a599b6-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Gaziantepspor",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "c048441c-26fc-11e5-b7a2-525400f795f0",
+      "live": true,
+      "live_statistics": "extended",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4271699e-80b5-11e4-b578-5254005a5aa0",
+        "name": "Super Lig",
+        "rank": 501,
+        "region": {
+          "alpha2": "TR",
+          "alpha3": "TUR",
+          "continent": "Asia",
+          "id": "fc1ac61a-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Turkey",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "60afe092-8f7f-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/60afe092-8f7f-11e4-917f-5254005a5aa0/50",
+        "name": "Rizespor",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "8ec30656-26f8-11e5-b2e3-525400f795f0",
+        "name": "Super Lig"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "6a177826-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/6a177826-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Mersin",
+        "score": {
+          "current": 3,
+          "halftime": 1
+        }
+      },
+      "id": "c0be8366-26fc-11e5-b7a2-525400f795f0",
+      "live": true,
+      "live_statistics": "light",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4271699e-80b5-11e4-b578-5254005a5aa0",
+        "name": "Super Lig",
+        "rank": 501,
+        "region": {
+          "alpha2": "TR",
+          "alpha3": "TUR",
+          "continent": "Asia",
+          "id": "fc1ac61a-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Turkey",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "23633776-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/23633776-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "Legia Warszawa",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "062a7fcc-197e-11e5-b042-525400f795f0",
+        "name": "Ekstraklasa"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "2282b494-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/2282b494-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "Wisla Krakow",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "c7c6a42a-24a1-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "401a3c48-80b5-11e4-b578-5254005a5aa0",
+        "name": "Poland Ekstraklasa",
+        "rank": 121,
+        "region": {
+          "alpha2": "PL",
+          "alpha3": "POL",
+          "continent": "Europe",
+          "id": "fbfb4e84-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Poland",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "6d0e5ef2-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/6d0e5ef2-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "AOK Kerkyra",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "6e2d96ae-5605-11e5-9f66-525400f795f0",
+        "name": "Football League"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "6d60e510-8f85-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/6d60e510-8f85-11e4-904b-5254005a5aa0/50",
+        "name": "Larisa",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "cfcd88b8-579c-11e5-9f66-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "3e8e102a-80b5-11e4-b578-5254005a5aa0",
+        "name": "Greece Football League",
+        "rank": 999,
+        "region": {
+          "alpha2": "GR",
+          "alpha3": "GRC",
+          "continent": "Europe",
+          "id": "fbc518aa-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Greece",
+          "type": "country"
+        }
+      },
+      "start_date": "Sun, 06 Dec 2015 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    }
+  ],
+  "next": 60,
+  "next_request": "http://eurytus.livegoals.dk/api/v1.1/schedule/2015-12-06?next=60&options=streams&locale=en&sport=a0c77e28-69fb-11e4-85c8-5254005a5aa0&rank=999",
+  "request_time": "Thu, 07 Apr 2016 10:31:20 GMT",
+  "sport": {
+    "id": "a0c77e28-69fb-11e4-85c8-5254005a5aa0",
+    "name": "Football"
+  },
+  "total": 256
+}

@@ -1,0 +1,1058 @@
+{
+  "count": 18,
+  "error": false,
+  "events": [
+    {
+      "away": {
+        "id": "db1b6fae-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/db1b6fae-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Krylya Sovetov Samara",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "daae705e-249c-11e5-8452-525400f795f0",
+        "name": "Premier League"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "01474932-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/01474932-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Mordovya",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "401ac982-249e-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "0681c9c8-82b9-11e4-b34a-5254005a5aa0",
+        "name": "Russia Premier League",
+        "rank": 125,
+        "region": {
+          "alpha2": "RU",
+          "alpha3": "RUS",
+          "continent": "Europe",
+          "id": "fbff5c86-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Russia",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 16:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "43bff5b0-9bde-11e4-92ee-5254005a5aa0",
+          "name": "Voo"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "2284dbf6-e52d-11e5-a352-525400f795f0",
+          "name": "Unibet.fr"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "254a48e8-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/254a48e8-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Kayserispor",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "8ec30656-26f8-11e5-b2e3-525400f795f0",
+        "name": "Super Lig"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "60afe092-8f7f-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/60afe092-8f7f-11e4-917f-5254005a5aa0/50",
+        "name": "Rizespor",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "cb26a818-26f9-11e5-b7a2-525400f795f0",
+      "live": true,
+      "live_statistics": "light",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4271699e-80b5-11e4-b578-5254005a5aa0",
+        "name": "Super Lig",
+        "rank": 501,
+        "region": {
+          "alpha2": "TR",
+          "alpha3": "TUR",
+          "continent": "Asia",
+          "id": "fc1ac61a-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Turkey",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 16:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "9f67d8e0-9bdb-11e4-92ee-5254005a5aa0",
+          "name": "Paddy Power"
+        },
+        {
+          "id": "4f77f4e2-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "William Hill"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "0364b91a-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0364b91a-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "KACM Marrakech",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "bd003be8-2bac-11e5-ad57-525400f795f0",
+        "name": "Botola Pro"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "afed5ec4-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/afed5ec4-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "OCK Khouribga",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "7789884a-e262-11e5-8c27-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "43ce0eb4-80b5-11e4-b578-5254005a5aa0",
+        "name": "Morocco Botola Pro",
+        "rank": 999,
+        "region": {
+          "alpha2": "MA",
+          "alpha3": "MAR",
+          "continent": "Africa",
+          "id": "fbebe494-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Morocco",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 15:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "f72fdaf6-8f87-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/f72fdaf6-8f87-11e4-904b-5254005a5aa0/50",
+        "name": "ACS Poli Timisoara",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "fc7b9fd4-df5b-11e5-bd38-525400f795f0",
+        "name": "Liga I Relegation Group"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "0ea37150-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0ea37150-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Botosani",
+        "score": {
+          "current": 6,
+          "halftime": 1
+        }
+      },
+      "id": "086a923e-df5f-11e5-8c27-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "5b55da08-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Romania Liga I",
+        "rank": 199,
+        "region": {
+          "alpha2": "RO",
+          "alpha3": "ROU",
+          "continent": "Europe",
+          "id": "fbfe95d0-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Romania",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 15:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "8c119cfe-92a8-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/8c119cfe-92a8-11e4-bd79-5254005a5aa0/50",
+        "name": "FC Infonet",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "bd098b72-b1f7-11e5-82a4-525400f795f0",
+        "name": "Meistriliiga"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "8c3d880a-92a8-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/8c3d880a-92a8-11e4-bd79-5254005a5aa0/50",
+        "name": "JK Sillamae Kalev",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "2849a5c4-b1f9-11e5-bbb8-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "67f84e6c-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Estonia Meistriliiga",
+        "rank": 999,
+        "region": {
+          "alpha2": "EE",
+          "alpha3": "EST",
+          "continent": "Europe",
+          "id": "fbbaf1c2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Estonia",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 15:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "7172f112-8f7f-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7172f112-8f7f-11e4-917f-5254005a5aa0/50",
+        "name": "Giresunspor",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "b23398d4-2942-11e5-820c-525400f795f0",
+        "name": "1. Lig"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "70c69fa8-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/70c69fa8-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Altinordu",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "9ebbded4-2bad-11e5-b660-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "0c2780de-82b9-11e4-b34a-5254005a5aa0",
+        "name": "Turkey 1. Lig",
+        "rank": 999,
+        "region": {
+          "alpha2": "TR",
+          "alpha3": "TUR",
+          "continent": "Asia",
+          "id": "fc1ac61a-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Turkey",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 15:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "7d5c4da8-92a8-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7d5c4da8-92a8-11e4-bd79-5254005a5aa0/50",
+        "name": "L. Metalurgs",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "8e5f82fe-dd49-11e5-bd38-525400f795f0",
+        "name": "Virsliga"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "7d2017c0-92a8-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7d2017c0-92a8-11e4-bd79-5254005a5aa0/50",
+        "name": "FK Jelgava",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "d71a8422-dd52-11e5-8c27-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "679f7896-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Latvia Virsliga",
+        "rank": 182,
+        "region": {
+          "alpha2": "LV",
+          "alpha3": "LVA",
+          "continent": "Europe",
+          "id": "fbdb2910-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Latvia",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 15:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        },
+        {
+          "id": "60dc24ea-e52d-11e5-a352-525400f795f0",
+          "name": "Bwin.fr"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "6d9bcc84-8f85-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/6d9bcc84-8f85-11e4-904b-5254005a5aa0/50",
+        "name": "Zakynthos APS",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "6e2d96ae-5605-11e5-9f66-525400f795f0",
+        "name": "Football League"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "d32a9b7a-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/d32a9b7a-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Trikala",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "eb6653ca-579c-11e5-9f66-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "3e8e102a-80b5-11e4-b578-5254005a5aa0",
+        "name": "Greece Football League",
+        "rank": 999,
+        "region": {
+          "alpha2": "GR",
+          "alpha3": "GRC",
+          "continent": "Europe",
+          "id": "fbc518aa-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Greece",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 15:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "6ee6919c-b50d-11e5-aa5d-525400f795f0",
+          "name": "Laola1"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "4a2a92fa-b50c-11e5-aa5d-525400f795f0",
+          "name": "Bwin.dk"
+        },
+        {
+          "id": "f52c4122-b50b-11e5-aa5d-525400f795f0",
+          "name": "Bwin.com"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "d2cbffd4-9273-11e4-b4fd-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/d2cbffd4-9273-11e4-b4fd-5254005a5aa0/50",
+        "name": "El Hodood",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "75890bf6-6cd3-11e5-a619-525400f795f0",
+        "name": "1. Division"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "77baa69c-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/77baa69c-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Al-Ittihad Al-Sakandary",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "id": "f0bb7270-ece7-11e5-af70-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "240dfda0-80b5-11e4-b578-5254005a5aa0",
+        "name": "Egypt 1. Division",
+        "rank": 601,
+        "region": {
+          "alpha2": "EG",
+          "alpha3": "EGY",
+          "continent": "Africa",
+          "id": "fbb89c06-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Egypt",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 15:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "cadba09c-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/cadba09c-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Hapoel Natzrat-Elite",
+        "score": {
+          "current": 2,
+          "halftime": 2
+        }
+      },
+      "competition": {
+        "id": "f5cbdd54-26f9-11e5-b7a2-525400f795f0",
+        "name": "Leumit League"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "657eb412-b0a0-11e4-baba-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/657eb412-b0a0-11e4-baba-5254005a5aa0/50",
+        "name": "Maccabi Kiriat Gat",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "f69814d2-26f9-11e5-b7a2-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "38ebd7ba-80b5-11e4-b578-5254005a5aa0",
+        "name": "Israel Leumit League",
+        "rank": 999,
+        "region": {
+          "alpha2": "IL",
+          "alpha3": "ISR",
+          "continent": "Asia",
+          "id": "fbd2f4ac-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Israel",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 15:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "2c5fcb66-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/2c5fcb66-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "MCO Oujda",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "bd003be8-2bac-11e5-ad57-525400f795f0",
+        "name": "Botola Pro"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "03b0e3a8-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/03b0e3a8-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "FAR Rabat",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "78c37a72-e262-11e5-8c27-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "43ce0eb4-80b5-11e4-b578-5254005a5aa0",
+        "name": "Morocco Botola Pro",
+        "rank": 999,
+        "region": {
+          "alpha2": "MA",
+          "alpha3": "MAR",
+          "continent": "Africa",
+          "id": "fbebe494-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Morocco",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 13:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "242b11fc-8f87-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/242b11fc-8f87-11e4-904b-5254005a5aa0/50",
+        "name": "Astrakhan",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "1a3b6382-2bb2-11e5-b660-525400f795f0",
+        "name": "PFL Zone South"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "24322c9e-8f87-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/24322c9e-8f87-11e4-904b-5254005a5aa0/50",
+        "name": "Terek Grozny II",
+        "score": {
+          "current": 4,
+          "halftime": 1
+        }
+      },
+      "id": "49e9a4ce-2bd3-11e5-b285-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "93583bd4-82b4-11e4-b34a-5254005a5aa0",
+        "name": "Russia 2. Division Center",
+        "rank": 999
+      },
+      "start_date": "Mon, 04 Apr 2016 12:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "95f2010a-92a8-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/95f2010a-92a8-11e4-bd79-5254005a5aa0/50",
+        "name": "Muhoroni Youth fc",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "53161d4c-b793-11e5-846f-525400f795f0",
+        "name": "Premier League"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "91a44144-92a8-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/91a44144-92a8-11e4-bd79-5254005a5aa0/50",
+        "name": "Ulinzi Stars",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "a2cd158c-b795-11e5-8801-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "9fb72fd6-80b4-11e4-844d-5254005a5aa0",
+        "name": "Kenya Premier League",
+        "rank": 599,
+        "region": {
+          "alpha2": "KE",
+          "alpha3": "KEN",
+          "continent": "Africa",
+          "id": "fbd70bf0-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Kenya",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 12:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "caacaba4-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/caacaba4-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "Pumas",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "1760f102-a3af-11e5-9e8b-525400f795f0",
+        "name": "Liga MX Clausura"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "5f0df31c-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/5f0df31c-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "CD Guadalajara",
+        "score": {
+          "current": 4,
+          "halftime": 2
+        }
+      },
+      "id": "bb565f58-a595-11e5-b314-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "357e8db6-80b5-11e4-b578-5254005a5aa0",
+        "name": "Mexico Liga MX",
+        "rank": 501,
+        "region": {
+          "alpha2": "MX",
+          "alpha3": "MEX",
+          "continent": "North America",
+          "id": "fbe7c5c6-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Mexico",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 01:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "4f77f4e2-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "William Hill"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "66df4b42-9277-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/66df4b42-9277-11e4-bd79-5254005a5aa0/50",
+        "name": "Portland Timbers",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "86520b32-ab25-11e5-9e8b-525400f795f0",
+        "name": "Major League Soccer"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "b20a1f40-8f87-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/b20a1f40-8f87-11e4-904b-5254005a5aa0/50",
+        "name": "Orlando City",
+        "score": {
+          "current": 4,
+          "halftime": 2
+        }
+      },
+      "id": "496969a2-b5ea-11e5-b318-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "f6b1341a-82b4-11e4-b34a-5254005a5aa0",
+        "name": "USA Major League Soccer",
+        "rank": 137,
+        "region": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "continent": "North America",
+          "id": "fc1fa1e4-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "United States",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 00:15:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "09aad776-9bdb-11e4-92ee-5254005a5aa0",
+          "name": "Sky Sports"
+        },
+        {
+          "id": "2284dbf6-e52d-11e5-a352-525400f795f0",
+          "name": "Unibet.fr"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "b1f6c024-c5d4-11e5-a633-525400f795f0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/b1f6c024-c5d4-11e5-a633-525400f795f0/50",
+        "name": "San Antonio USL",
+        "score": {
+          "current": 3,
+          "halftime": 2
+        }
+      },
+      "competition": {
+        "id": "2ba430bc-c5d2-11e5-a633-525400f795f0",
+        "name": "2016"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "a4049278-b097-11e4-baba-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/a4049278-b097-11e4-baba-5254005a5aa0/50",
+        "name": "Seattle Sounders FC USL",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "03eeea06-c5d9-11e5-b6fe-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "646a350e-8433-11e4-8e0d-5254005a5aa0",
+        "name": "USA USL Pro League",
+        "rank": 999,
+        "region": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "continent": "North America",
+          "id": "fc1fa1e4-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "United States",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 00:05:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "c091993a-927f-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/c091993a-927f-11e4-bd79-5254005a5aa0/50",
+        "name": "Urena Fc",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "5338d13a-ae50-11e5-b687-525400f795f0",
+        "name": "Primera Division - Torneo de Adecuacion"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "cd53b2a6-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/cd53b2a6-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Zamora FC",
+        "score": {
+          "current": 3,
+          "halftime": 2
+        }
+      },
+      "id": "552801da-b46f-11e5-b318-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "28ad7542-81e7-11e4-8db6-5254005a5aa0",
+        "name": "Venezuela",
+        "rank": 999,
+        "region": {
+          "alpha2": "VE",
+          "alpha3": "VEN",
+          "continent": "South America",
+          "id": "fc229b10-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Venezuela, Bolivarian Republic of",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 00:05:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f52c4122-b50b-11e5-aa5d-525400f795f0",
+          "name": "Bwin.com"
+        },
+        {
+          "id": "4a2a92fa-b50c-11e5-aa5d-525400f795f0",
+          "name": "Bwin.dk"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "90d81b62-92a0-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/90d81b62-92a0-11e4-bd79-5254005a5aa0/50",
+        "name": "Dep.Espanol",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "ecb4072e-bc5d-11e5-98bd-525400f795f0",
+        "name": "Primera B Metropolitana"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "90d08a8c-92a0-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/90d08a8c-92a0-11e4-bd79-5254005a5aa0/50",
+        "name": "CA Fenix",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "06406d12-bcff-11e5-839c-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "91829002-82b4-11e4-b34a-5254005a5aa0",
+        "name": "Primera B Metropolitana",
+        "rank": 999,
+        "region": {
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "continent": "South America",
+          "id": "fb9813e6-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Argentina",
+          "type": "country"
+        }
+      },
+      "start_date": "Mon, 04 Apr 2016 18:35:00 GMT",
+      "status": {
+        "code": "abandoned",
+        "display": "PST",
+        "type": "delayed"
+      },
+      "streams": []
+    }
+  ],
+  "request_time": "Thu, 07 Apr 2016 11:00:50 GMT",
+  "sport": {
+    "id": "a0c77e28-69fb-11e4-85c8-5254005a5aa0",
+    "name": "Football"
+  },
+  "total": 48
+}

@@ -1,0 +1,2022 @@
+{
+  "count": 30,
+  "error": false,
+  "events": [
+    {
+      "away": {
+        "id": "26b02ba0-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/26b02ba0-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Boavista",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "e6bce556-249c-11e5-8452-525400f795f0",
+        "name": "Primeira Liga"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "2cea294c-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/2cea294c-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Vitoria de Guimaraes",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "id": "1503fad4-249e-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4b27b142-80b5-11e4-b578-5254005a5aa0",
+        "name": "Liga ZON Sagres",
+        "rank": 123,
+        "region": {
+          "alpha2": "PT",
+          "alpha3": "PRT",
+          "continent": "Europe",
+          "id": "fbfbe556-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Portugal",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 19:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "4f77f4e2-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "William Hill"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "9f67d8e0-9bdb-11e4-92ee-5254005a5aa0",
+          "name": "Paddy Power"
+        },
+        {
+          "id": "6a978054-9bde-11e4-92ee-5254005a5aa0",
+          "name": "Belgacom"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "c1770498-927f-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/c1770498-927f-11e4-bd79-5254005a5aa0/50",
+        "name": "Carabobo FC",
+        "score": {
+          "current": 2,
+          "halftime": 2
+        }
+      },
+      "competition": {
+        "id": "5338d13a-ae50-11e5-b687-525400f795f0",
+        "name": "Primera Division - Torneo de Adecuacion"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "cd7fefa6-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/cd7fefa6-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Aragua FC",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "533441fe-b46f-11e5-b318-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "28ad7542-81e7-11e4-8db6-5254005a5aa0",
+        "name": "Venezuela",
+        "rank": 999,
+        "region": {
+          "alpha2": "VE",
+          "alpha3": "VEN",
+          "continent": "South America",
+          "id": "fc229b10-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Venezuela, Bolivarian Republic of",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 19:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "5396fd8a-ac78-11e4-b63a-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/5396fd8a-ac78-11e4-b63a-5254005a5aa0/50",
+        "name": "New York Red Bulls USL",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "2ba430bc-c5d2-11e5-a633-525400f795f0",
+        "name": "2016"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "efb3ea30-ac90-11e4-b63a-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/efb3ea30-ac90-11e4-b63a-5254005a5aa0/50",
+        "name": "Louisville City FC",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "091fcefa-c5d9-11e5-b6fe-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "646a350e-8433-11e4-8e0d-5254005a5aa0",
+        "name": "USA USL Pro League",
+        "rank": 999,
+        "region": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "continent": "North America",
+          "id": "fc1fa1e4-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "United States",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 19:05:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "e691acfc-9288-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e691acfc-9288-11e4-bd79-5254005a5aa0/50",
+        "name": "Universitario",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "bb977fd2-ba9a-11e5-98bd-525400f795f0",
+        "name": "Clausura"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "9373567a-9287-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/9373567a-9287-11e4-bd79-5254005a5aa0/50",
+        "name": "Sport Boys Warnes",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "623d5742-cc0e-11e5-b6fe-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "1a8d89f8-80b5-11e4-b578-5254005a5aa0",
+        "name": "Bolivia",
+        "rank": 999,
+        "region": {
+          "alpha2": "BO",
+          "alpha3": "BOL",
+          "continent": "South America",
+          "id": "fba19eac-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Bolivia, Plurinational State of",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 19:05:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "4f77f4e2-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "William Hill"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "7561baa6-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7561baa6-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Minnesota United",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "19c0a44c-c42a-11e5-a633-525400f795f0",
+        "name": "NASL Spring Season"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "9a9a8ea6-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/9a9a8ea6-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Carolina RailHawks",
+        "score": {
+          "current": 2,
+          "halftime": 2
+        }
+      },
+      "id": "bd317b62-c432-11e5-b6fe-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "f9730084-82b4-11e4-b34a-5254005a5aa0",
+        "name": "USA NASL",
+        "rank": 999,
+        "region": {
+          "alpha2": "US",
+          "alpha3": "USA",
+          "continent": "North America",
+          "id": "fc1fa1e4-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "United States",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 19:05:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "15869610-9290-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/15869610-9290-11e4-bd79-5254005a5aa0/50",
+        "name": "Juventud de las Piedras",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "668582c2-bf4b-11e5-9490-525400f795f0",
+        "name": "Primera Division Clausura"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "3cc53310-9283-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/3cc53310-9283-11e4-bd79-5254005a5aa0/50",
+        "name": "Plaza Colonia",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "id": "cd44f734-bf52-11e5-839c-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "97eb3038-82b5-11e4-b34a-5254005a5aa0",
+        "name": "Uruguay Primera Division",
+        "rank": 999,
+        "region": {
+          "alpha2": "UY",
+          "alpha3": "URY",
+          "continent": "South America",
+          "id": "fc20d2e4-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Uruguay",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 19:05:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "92edcae4-8f82-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/92edcae4-8f82-11e4-904b-5254005a5aa0/50",
+        "name": "Agua Santa",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "1bc6cf04-9438-11e5-bdeb-525400f795f0",
+        "name": "Paulista A1"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "29646160-8f86-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/29646160-8f86-11e4-904b-5254005a5aa0/50",
+        "name": "Ponte Preta",
+        "score": {
+          "current": 7,
+          "halftime": 1
+        }
+      },
+      "id": "a0fb797a-99da-11e5-b398-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "196d6f7a-80b5-11e4-b578-5254005a5aa0",
+        "name": "Brazil State Leagues",
+        "rank": 999,
+        "region": {
+          "alpha2": "BR",
+          "alpha3": "BRA",
+          "continent": "South America",
+          "id": "fba48b12-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Brazil",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 19:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "6ee6919c-b50d-11e5-aa5d-525400f795f0",
+          "name": "Laola1"
+        },
+        {
+          "id": "9f67d8e0-9bdb-11e4-92ee-5254005a5aa0",
+          "name": "Paddy Power"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "4f77f4e2-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "William Hill"
+        },
+        {
+          "id": "7ceec750-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.dk"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "6601e0aa-92b2-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/6601e0aa-92b2-11e4-bd79-5254005a5aa0/50",
+        "name": "Cortulua",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "5634d1fa-c2a9-11e5-a633-525400f795f0",
+        "name": "Primera A Apertura"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "20354b8e-928a-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/20354b8e-928a-11e4-bd79-5254005a5aa0/50",
+        "name": "Itagui",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "fc37c28c-c2b4-11e5-b6fe-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "c3196e6e-813e-11e4-8db6-5254005a5aa0",
+        "name": "Colombia Liga Postob\u00f3n",
+        "rank": 506,
+        "region": {
+          "alpha2": "CO",
+          "alpha3": "COL",
+          "continent": "South America",
+          "id": "fbaeb632-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Colombia",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 19:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "6fa7ca34-92b7-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/6fa7ca34-92b7-11e4-bd79-5254005a5aa0/50",
+        "name": "Cork City",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "a707a340-b5ee-11e5-ac1d-525400f795f0",
+        "name": "Premier Division"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "739cdd6e-92b7-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/739cdd6e-92b7-11e4-bd79-5254005a5aa0/50",
+        "name": "Sligo Rovers",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "2c03a35e-b5f0-11e5-b318-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "843373c0-82b5-11e4-b34a-5254005a5aa0",
+        "name": "Ireland Airtricity League",
+        "rank": 197,
+        "region": {
+          "alpha2": "IE",
+          "alpha3": "IRL",
+          "continent": "Europe",
+          "id": "fbd1cb72-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Ireland",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "4a2a92fa-b50c-11e5-aa5d-525400f795f0",
+          "name": "Bwin.dk"
+        },
+        {
+          "id": "f52c4122-b50b-11e5-aa5d-525400f795f0",
+          "name": "Bwin.com"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "c710ca5e-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/c710ca5e-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Empoli",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "f34ea670-347c-11e5-b285-525400f795f0",
+        "name": "Serie A"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "c773f340-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/c773f340-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Juventus",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "id": "329f7110-3491-11e5-b285-525400f795f0",
+      "live": true,
+      "live_statistics": "extended",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "881dd5f0-815e-11e4-8db6-5254005a5aa0",
+        "name": "Serie A",
+        "rank": 4,
+        "region": {
+          "alpha2": "IT",
+          "alpha3": "ITA",
+          "continent": "Europe",
+          "id": "fbd388c2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Italy",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "1a362f48-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.no"
+        },
+        {
+          "id": "5eff5812-418c-11e5-ade9-525400f795f0",
+          "name": "Viaplay.fi"
+        },
+        {
+          "id": "52515690-304f-11e5-ade9-525400f795f0",
+          "name": "NUTV"
+        },
+        {
+          "id": "43bff5b0-9bde-11e4-92ee-5254005a5aa0",
+          "name": "Voo"
+        },
+        {
+          "id": "7ceec750-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.dk"
+        },
+        {
+          "id": "7322bc9a-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.se"
+        },
+        {
+          "id": "551a462e-09e0-11e5-b40e-5254005a5aa0",
+          "name": "DR Nu"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "e31c9268-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e31c9268-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Excelsior",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "416209e2-1367-11e5-861b-5254000d4cf8",
+        "name": "Eredivisie"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "e2df9098-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e2df9098-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Feyenoord",
+        "score": {
+          "current": 3,
+          "halftime": 2
+        }
+      },
+      "id": "b93aa000-14ed-11e5-b36f-5254005a5aa0",
+      "live": true,
+      "live_statistics": "extended",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "468b470c-80b5-11e4-b578-5254005a5aa0",
+        "name": "Eredivisie",
+        "rank": 101,
+        "region": {
+          "alpha2": "NL",
+          "alpha3": "NLD",
+          "continent": "Europe",
+          "id": "fbef8f68-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Netherlands",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "09aad776-9bdb-11e4-92ee-5254005a5aa0",
+          "name": "Sky Sports"
+        },
+        {
+          "id": "9f4a418e-9bdd-11e4-92ee-5254005a5aa0",
+          "name": "Canalplus.es"
+        },
+        {
+          "id": "43bff5b0-9bde-11e4-92ee-5254005a5aa0",
+          "name": "Voo"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "2284dbf6-e52d-11e5-a352-525400f795f0",
+          "name": "Unibet.fr"
+        },
+        {
+          "id": "551a462e-09e0-11e5-b40e-5254005a5aa0",
+          "name": "DR Nu"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "e1854904-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e1854904-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Twente",
+        "score": {
+          "current": 3,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "416209e2-1367-11e5-861b-5254000d4cf8",
+        "name": "Eredivisie"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "e1d86634-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e1d86634-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Willem II",
+        "score": {
+          "current": 2,
+          "halftime": 2
+        }
+      },
+      "id": "b9815be4-14ed-11e5-b36f-5254005a5aa0",
+      "live": true,
+      "live_statistics": "extended",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "468b470c-80b5-11e4-b578-5254005a5aa0",
+        "name": "Eredivisie",
+        "rank": 101,
+        "region": {
+          "alpha2": "NL",
+          "alpha3": "NLD",
+          "continent": "Europe",
+          "id": "fbef8f68-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Netherlands",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "9f4a418e-9bdd-11e4-92ee-5254005a5aa0",
+          "name": "Canalplus.es"
+        },
+        {
+          "id": "43bff5b0-9bde-11e4-92ee-5254005a5aa0",
+          "name": "Voo"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "2284dbf6-e52d-11e5-a352-525400f795f0",
+          "name": "Unibet.fr"
+        },
+        {
+          "id": "551a462e-09e0-11e5-b40e-5254005a5aa0",
+          "name": "DR Nu"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "e85595be-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e85595be-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Ujpest",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "28db7362-249d-11e5-8452-525400f795f0",
+        "name": "NB I"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "cf5d5dbc-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/cf5d5dbc-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Vasas Budapest",
+        "score": {
+          "current": 3,
+          "halftime": 1
+        }
+      },
+      "id": "f186082c-249d-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "835f58c6-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Hungary OTP BANK Liga",
+        "rank": 574,
+        "region": {
+          "alpha2": "HU",
+          "alpha3": "HUN",
+          "continent": "Europe",
+          "id": "fbce41d2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Hungary",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "f9c57926-92a0-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/f9c57926-92a0-11e4-bd79-5254005a5aa0/50",
+        "name": "Almirante Brown",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "ecb4072e-bc5d-11e5-98bd-525400f795f0",
+        "name": "Primera B Metropolitana"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "d605c438-929a-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/d605c438-929a-11e4-bd79-5254005a5aa0/50",
+        "name": "Barracas Central",
+        "score": {
+          "current": 3,
+          "halftime": 2
+        }
+      },
+      "id": "09054702-bcff-11e5-839c-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "91829002-82b4-11e4-b34a-5254005a5aa0",
+        "name": "Primera B Metropolitana",
+        "rank": 999,
+        "region": {
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "continent": "South America",
+          "id": "fb9813e6-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Argentina",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "23120d2e-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/23120d2e-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "Lechia Gdansk",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "062a7fcc-197e-11e5-b042-525400f795f0",
+        "name": "Ekstraklasa"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "23633776-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/23633776-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "Legia Warszawa",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "id": "34d11324-249e-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "401a3c48-80b5-11e4-b578-5254005a5aa0",
+        "name": "Poland Ekstraklasa",
+        "rank": 121,
+        "region": {
+          "alpha2": "PL",
+          "alpha3": "POL",
+          "continent": "Europe",
+          "id": "fbfb4e84-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Poland",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "21a9a470-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "Nc+"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "a9d7b5f4-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/a9d7b5f4-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "Prato",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "9dde5dca-4ce1-11e5-bc51-525400f795f0",
+        "name": "Lega Pro Grp B"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "a9b5a0c2-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/a9b5a0c2-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "Pontedera",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "51444010-4ceb-11e5-bc51-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "a4a1cee8-80b4-11e4-844d-5254005a5aa0",
+        "name": " Serie C1 A",
+        "rank": 999,
+        "region": {
+          "alpha2": "IT",
+          "alpha3": "ITA",
+          "continent": "Europe",
+          "id": "fbd388c2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Italy",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "187dda90-8f7f-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/187dda90-8f7f-11e4-917f-5254005a5aa0/50",
+        "name": "Sporting Charleroi",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "1589847e-ea50-11e5-a78c-525400f795f0",
+        "name": "Playoff EL grp. B"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "0489b2bc-9276-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0489b2bc-9276-11e4-bd79-5254005a5aa0/50",
+        "name": "Lokeren",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "id": "71375fe6-ea53-11e5-af70-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "48320924-80b5-11e4-b578-5254005a5aa0",
+        "name": "Jupiler League",
+        "rank": 103,
+        "region": {
+          "alpha2": "BE",
+          "alpha3": "BEL",
+          "continent": "Europe",
+          "id": "fb9eb854-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Belgium",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "43bff5b0-9bde-11e4-92ee-5254005a5aa0",
+          "name": "Voo"
+        },
+        {
+          "id": "6a978054-9bde-11e4-92ee-5254005a5aa0",
+          "name": "Belgacom"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "4a2a92fa-b50c-11e5-aa5d-525400f795f0",
+          "name": "Bwin.dk"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "7e1e0c18-8f7e-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7e1e0c18-8f7e-11e4-904b-5254005a5aa0/50",
+        "name": "Tigre",
+        "score": {
+          "current": 3,
+          "halftime": 2
+        }
+      },
+      "competition": {
+        "id": "9f384dc8-b22d-11e5-82a4-525400f795f0",
+        "name": "Primera Division"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "7e3048c4-8f7e-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7e3048c4-8f7e-11e4-904b-5254005a5aa0/50",
+        "name": "Racing Club",
+        "score": {
+          "current": 3,
+          "halftime": 1
+        }
+      },
+      "id": "937d66d8-b2ed-11e5-b318-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "cef7ccde-81e4-11e4-8db6-5254005a5aa0",
+        "name": "Torneo Inicial",
+        "rank": 141,
+        "region": {
+          "alpha2": "AR",
+          "alpha3": "ARG",
+          "continent": "South America",
+          "id": "fb9813e6-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Argentina",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "4f77f4e2-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "William Hill"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "2284dbf6-e52d-11e5-a352-525400f795f0",
+          "name": "Unibet.fr"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "786fe50c-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/786fe50c-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Real Madrid",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "91fb24ee-2bac-11e5-b660-525400f795f0",
+        "name": "Primera Division"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "29342a2a-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/29342a2a-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Barcelona",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "9cd70f62-2bad-11e5-b660-525400f795f0",
+      "live": true,
+      "live_statistics": "extended",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4a15891e-80b5-11e4-b578-5254005a5aa0",
+        "name": "La Liga",
+        "rank": 2,
+        "region": {
+          "alpha2": "ES",
+          "alpha3": "ESP",
+          "continent": "Europe",
+          "id": "fc0e4462-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Spain",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        },
+        {
+          "id": "9f67d8e0-9bdb-11e4-92ee-5254005a5aa0",
+          "name": "Paddy Power"
+        },
+        {
+          "id": "6ee6919c-b50d-11e5-aa5d-525400f795f0",
+          "name": "Laola1"
+        },
+        {
+          "id": "60dc24ea-e52d-11e5-a352-525400f795f0",
+          "name": "Bwin.fr"
+        },
+        {
+          "id": "4f77f4e2-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "William Hill"
+        },
+        {
+          "id": "2284dbf6-e52d-11e5-a352-525400f795f0",
+          "name": "Unibet.fr"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "09aad776-9bdb-11e4-92ee-5254005a5aa0",
+          "name": "Sky Sports"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "52515690-304f-11e5-ade9-525400f795f0",
+          "name": "NUTV"
+        },
+        {
+          "id": "7322bc9a-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.se"
+        },
+        {
+          "id": "1a362f48-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.no"
+        },
+        {
+          "id": "5eff5812-418c-11e5-ade9-525400f795f0",
+          "name": "Viaplay.fi"
+        },
+        {
+          "id": "7ceec750-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.dk"
+        },
+        {
+          "id": "551a462e-09e0-11e5-b40e-5254005a5aa0",
+          "name": "DR Nu"
+        },
+        {
+          "id": "9f4a418e-9bdd-11e4-92ee-5254005a5aa0",
+          "name": "Canalplus.es"
+        },
+        {
+          "id": "6a978054-9bde-11e4-92ee-5254005a5aa0",
+          "name": "Belgacom"
+        },
+        {
+          "id": "21a9a470-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "Nc+"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "aa0536a0-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/aa0536a0-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "Reggiana",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "96e1c43a-4ce1-11e5-bc51-525400f795f0",
+        "name": "Lega Pro Grp A"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "a8055f9c-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/a8055f9c-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "Pordenone Calcio",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "a0bd92a4-4ce6-11e5-bc51-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "a4a1cee8-80b4-11e4-844d-5254005a5aa0",
+        "name": " Serie C1 A",
+        "rank": 999,
+        "region": {
+          "alpha2": "IT",
+          "alpha3": "ITA",
+          "continent": "Europe",
+          "id": "fbd388c2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Italy",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "49ed328a-928e-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/49ed328a-928e-11e4-bd79-5254005a5aa0/50",
+        "name": "Defensor Sporting",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "668582c2-bf4b-11e5-9490-525400f795f0",
+        "name": "Primera Division Clausura"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "91e385d0-9284-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/91e385d0-9284-11e4-bd79-5254005a5aa0/50",
+        "name": "Villa Teresa",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "d16d39ac-bf52-11e5-839c-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "97eb3038-82b5-11e4-b34a-5254005a5aa0",
+        "name": "Uruguay Primera Division",
+        "rank": 999,
+        "region": {
+          "alpha2": "UY",
+          "alpha3": "URY",
+          "continent": "South America",
+          "id": "fc20d2e4-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Uruguay",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "39fb406a-928e-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/39fb406a-928e-11e4-bd79-5254005a5aa0/50",
+        "name": "Racing",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "668582c2-bf4b-11e5-9490-525400f795f0",
+        "name": "Primera Division Clausura"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "164e043e-9290-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/164e043e-9290-11e4-bd79-5254005a5aa0/50",
+        "name": "Danubio",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "d44018ca-bf52-11e5-839c-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "97eb3038-82b5-11e4-b34a-5254005a5aa0",
+        "name": "Uruguay Primera Division",
+        "rank": 999,
+        "region": {
+          "alpha2": "UY",
+          "alpha3": "URY",
+          "continent": "South America",
+          "id": "fc20d2e4-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Uruguay",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "ef508fea-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/ef508fea-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Jihlava",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "f4d8b4b2-249c-11e5-8452-525400f795f0",
+        "name": "1. Division"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "efd71308-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/efd71308-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Viktoria Plzen",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "27ae9e14-249e-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "60686c4a-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Czech Republic Gambrinus League",
+        "rank": 509,
+        "region": {
+          "alpha2": "CZ",
+          "alpha3": "CZE",
+          "continent": "Europe",
+          "id": "fbb5203a-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Czech Republic",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:15:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "1aef73ba-8f7f-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/1aef73ba-8f7f-11e4-917f-5254005a5aa0/50",
+        "name": "Mouscron-Peruwelz",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "bed3dba2-ea4f-11e5-a78c-525400f795f0",
+        "name": "Playoff EL grp. A"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "04be855a-9276-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/04be855a-9276-11e4-bd79-5254005a5aa0/50",
+        "name": "Kortrijk",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "410f0c26-ea51-11e5-b918-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "48320924-80b5-11e4-b578-5254005a5aa0",
+        "name": "Jupiler League",
+        "rank": 103,
+        "region": {
+          "alpha2": "BE",
+          "alpha3": "BEL",
+          "continent": "Europe",
+          "id": "fb9eb854-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Belgium",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:05:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "43bff5b0-9bde-11e4-92ee-5254005a5aa0",
+          "name": "Voo"
+        },
+        {
+          "id": "6a978054-9bde-11e4-92ee-5254005a5aa0",
+          "name": "Belgacom"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "a44b1386-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/a44b1386-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "Dessel",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "472052b6-249d-11e5-8452-525400f795f0",
+        "name": "2. Division"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "a40d5988-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/a40d5988-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "KSK Heist",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "1ea69722-249e-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4805175c-80b5-11e4-b578-5254005a5aa0",
+        "name": "EXQI League",
+        "rank": 999,
+        "region": {
+          "alpha2": "BE",
+          "alpha3": "BEL",
+          "continent": "Europe",
+          "id": "fb9eb854-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Belgium",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "a4603e78-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/a4603e78-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "Seresien",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "472052b6-249d-11e5-8452-525400f795f0",
+        "name": "2. Division"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "a2beb5ea-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/a2beb5ea-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "WS Bruxelles",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "id": "1eb8d572-249e-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4805175c-80b5-11e4-b578-5254005a5aa0",
+        "name": "EXQI League",
+        "rank": 999,
+        "region": {
+          "alpha2": "BE",
+          "alpha3": "BEL",
+          "continent": "Europe",
+          "id": "fb9eb854-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Belgium",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "a3d5bd66-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/a3d5bd66-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "Eupen",
+        "score": {
+          "current": 3,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "472052b6-249d-11e5-8452-525400f795f0",
+        "name": "2. Division"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "a28bce50-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/a28bce50-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "Lommel",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "1ec9404c-249e-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4805175c-80b5-11e4-b578-5254005a5aa0",
+        "name": "EXQI League",
+        "rank": 999,
+        "region": {
+          "alpha2": "BE",
+          "alpha3": "BEL",
+          "continent": "Europe",
+          "id": "fb9eb854-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Belgium",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "7af30922-8f82-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7af30922-8f82-11e4-904b-5254005a5aa0/50",
+        "name": "Coxyde",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "472052b6-249d-11e5-8452-525400f795f0",
+        "name": "2. Division"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "7aef0016-8f82-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7aef0016-8f82-11e4-904b-5254005a5aa0/50",
+        "name": "Deinze",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "1ede1bc0-249e-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4805175c-80b5-11e4-b578-5254005a5aa0",
+        "name": "EXQI League",
+        "rank": 999,
+        "region": {
+          "alpha2": "BE",
+          "alpha3": "BEL",
+          "continent": "Europe",
+          "id": "fb9eb854-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Belgium",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "44ad2340-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/44ad2340-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Montpellier",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "0ff27d94-15d1-11e5-b36f-5254005a5aa0",
+        "name": "Ligue 1"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "4740e20e-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/4740e20e-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Guingamp",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "62470cc2-15d6-11e5-b36f-5254005a5aa0",
+      "live": true,
+      "live_statistics": "extended",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "488e7eb6-80b5-11e4-b578-5254005a5aa0",
+        "name": " Ligue 1",
+        "rank": 5,
+        "region": {
+          "alpha2": "FR",
+          "alpha3": "FRA",
+          "continent": "Europe",
+          "id": "fbbed22e-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "France",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "4f77f4e2-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "William Hill"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "9f67d8e0-9bdb-11e4-92ee-5254005a5aa0",
+          "name": "Paddy Power"
+        },
+        {
+          "id": "43bff5b0-9bde-11e4-92ee-5254005a5aa0",
+          "name": "Voo"
+        },
+        {
+          "id": "21a9a470-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "Nc+"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "551a462e-09e0-11e5-b40e-5254005a5aa0",
+          "name": "DR Nu"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "8670d056-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/8670d056-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Angers",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "0ff27d94-15d1-11e5-b36f-5254005a5aa0",
+        "name": "Ligue 1"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "877b94fe-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/877b94fe-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Troyes",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "6285b828-15d6-11e5-b36f-5254005a5aa0",
+      "live": true,
+      "live_statistics": "extended",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "488e7eb6-80b5-11e4-b578-5254005a5aa0",
+        "name": " Ligue 1",
+        "rank": 5,
+        "region": {
+          "alpha2": "FR",
+          "alpha3": "FRA",
+          "continent": "Europe",
+          "id": "fbbed22e-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "France",
+          "type": "country"
+        }
+      },
+      "start_date": "Sat, 02 Apr 2016 18:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "4f77f4e2-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "William Hill"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "9f67d8e0-9bdb-11e4-92ee-5254005a5aa0",
+          "name": "Paddy Power"
+        },
+        {
+          "id": "43bff5b0-9bde-11e4-92ee-5254005a5aa0",
+          "name": "Voo"
+        },
+        {
+          "id": "21a9a470-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "Nc+"
+        },
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "551a462e-09e0-11e5-b40e-5254005a5aa0",
+          "name": "DR Nu"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        }
+      ]
+    }
+  ],
+  "next": 60,
+  "next_request": "http://eurytus.livegoals.dk/api/v1.1/schedule/2016-04-02?next=60&options=streams&locale=en&sport=a0c77e28-69fb-11e4-85c8-5254005a5aa0&rank=999",
+  "request_time": "Thu, 07 Apr 2016 10:29:20 GMT",
+  "sport": {
+    "id": "a0c77e28-69fb-11e4-85c8-5254005a5aa0",
+    "name": "Football"
+  },
+  "total": 468
+}

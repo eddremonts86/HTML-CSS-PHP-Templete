@@ -1,0 +1,1717 @@
+{
+  "count": 30,
+  "error": false,
+  "events": [
+    {
+      "away": {
+        "id": "dd7e3e06-8f85-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/dd7e3e06-8f85-11e4-904b-5254005a5aa0/50",
+        "name": "Dundee United",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "3e4fc414-1674-11e5-b36f-5254005a5aa0",
+        "name": "Premiership"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "de7bc152-8f85-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/de7bc152-8f85-11e4-904b-5254005a5aa0/50",
+        "name": "Partick Thistle",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "814cc41a-1674-11e5-b36f-5254005a5aa0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "b635dff4-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Scotland Premier League",
+        "rank": 527,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "00007c7a-6c25-11e4-ad3d-5254005a5aa0",
+          "name": "Scotland",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "f49ea94c-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/f49ea94c-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Morecambe",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "10a6a376-14d4-11e5-80d5-5254005a5aa0",
+        "name": "League 2"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "f701a0fe-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/f701a0fe-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Dag and Red",
+        "score": {
+          "current": 2,
+          "halftime": 2
+        }
+      },
+      "id": "852717cc-14f1-11e5-a5b6-5254005a5aa0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "c21abc20-82b5-11e4-b34a-5254005a5aa0",
+        "name": " League 2",
+        "rank": 999,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "ffffa5a2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "England",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "97cbb4bc-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/97cbb4bc-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Yeovil",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "10a6a376-14d4-11e5-80d5-5254005a5aa0",
+        "name": "League 2"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "e45a93e8-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e45a93e8-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Stevenage",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "86dd546e-14f1-11e5-a5b6-5254005a5aa0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "c21abc20-82b5-11e4-b34a-5254005a5aa0",
+        "name": " League 2",
+        "rank": 999,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "ffffa5a2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "England",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "f3628f94-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/f3628f94-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Hartlepool",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "10a6a376-14d4-11e5-80d5-5254005a5aa0",
+        "name": "League 2"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "e935c392-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e935c392-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Carlisle",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "926b00ea-14f3-11e5-b5b7-5254005a5aa0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "c21abc20-82b5-11e4-b34a-5254005a5aa0",
+        "name": " League 2",
+        "rank": 999,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "ffffa5a2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "England",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "9578ab02-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/9578ab02-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Sutton United",
+        "score": {
+          "current": 2,
+          "halftime": 2
+        }
+      },
+      "competition": {
+        "id": "6065c9f4-249d-11e5-8452-525400f795f0",
+        "name": "National League South"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "e5b105ce-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e5b105ce-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "Maidstone",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "9d399150-24a0-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "81a1942c-8123-11e4-8db6-5254005a5aa0",
+        "name": "Conference North/South",
+        "rank": 999,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "ffffa5a2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "England",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "d69daa8e-8f82-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/d69daa8e-8f82-11e4-904b-5254005a5aa0/50",
+        "name": "Dumbarton",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "913675a6-1674-11e5-b36f-5254005a5aa0",
+        "name": "Championship"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "d7145d00-8f82-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/d7145d00-8f82-11e4-904b-5254005a5aa0/50",
+        "name": "Rangers",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "a2e5e01c-16d7-11e5-b7bc-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4a8818f8-80b5-11e4-b578-5254005a5aa0",
+        "name": "Scotland 1. Division",
+        "rank": 999,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "00007c7a-6c25-11e4-ad3d-5254005a5aa0",
+          "name": "Scotland",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "7768365e-8f7f-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7768365e-8f7f-11e4-917f-5254005a5aa0/50",
+        "name": "Braintree Town",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "5eeb5c42-249d-11e5-8452-525400f795f0",
+        "name": "National League"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "62579080-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/62579080-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Barrow",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "a7b13422-249f-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "e2307e4e-80b4-11e4-844d-5254005a5aa0",
+        "name": " Conference Premier",
+        "rank": 999,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "ffffa5a2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "England",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "dfcc3304-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/dfcc3304-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "AFC Fylde",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "61884afa-249d-11e5-8452-525400f795f0",
+        "name": "National League North"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "641907dc-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/641907dc-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Stalybridge",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "id": "b7444b02-e1ed-11e5-8c27-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "81a1942c-8123-11e4-8db6-5254005a5aa0",
+        "name": "Conference North/South",
+        "rank": 999,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "ffffa5a2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "England",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "94863552-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/94863552-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Whitehawk",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "6065c9f4-249d-11e5-8452-525400f795f0",
+        "name": "National League South"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "941441fe-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/941441fe-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Maidenhead U",
+        "score": {
+          "current": 3,
+          "halftime": 0
+        }
+      },
+      "id": "cb0f3d5e-24a1-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "81a1942c-8123-11e4-8db6-5254005a5aa0",
+        "name": "Conference North/South",
+        "rank": 999,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "ffffa5a2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "England",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "7c68deba-8f7f-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7c68deba-8f7f-11e4-917f-5254005a5aa0/50",
+        "name": "Chester",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "5eeb5c42-249d-11e5-8452-525400f795f0",
+        "name": "National League"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "832a4dec-8f7f-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/832a4dec-8f7f-11e4-917f-5254005a5aa0/50",
+        "name": "Torquay",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "dbcf9af0-249f-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "e2307e4e-80b4-11e4-844d-5254005a5aa0",
+        "name": " Conference Premier",
+        "rank": 999,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "ffffa5a2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "England",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "95606434-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/95606434-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Chelmsford",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "6065c9f4-249d-11e5-8452-525400f795f0",
+        "name": "National League South"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "93cfa17a-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/93cfa17a-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Havant and W.",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "dc220cb8-249f-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "81a1942c-8123-11e4-8db6-5254005a5aa0",
+        "name": "Conference North/South",
+        "rank": 999,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "ffffa5a2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "England",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "d7500d50-8f82-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/d7500d50-8f82-11e4-904b-5254005a5aa0/50",
+        "name": "Livingston",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "913675a6-1674-11e5-b36f-5254005a5aa0",
+        "name": "Championship"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "d6d485b8-8f82-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/d6d485b8-8f82-11e4-904b-5254005a5aa0/50",
+        "name": "Hibernian",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "id": "e1816756-16d7-11e5-b7bc-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4a8818f8-80b5-11e4-b578-5254005a5aa0",
+        "name": "Scotland 1. Division",
+        "rank": 999,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "00007c7a-6c25-11e4-ad3d-5254005a5aa0",
+          "name": "Scotland",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "1db71fca-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/1db71fca-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Atletico Madrid",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "5f60731c-a24f-11e5-9793-525400f795f0",
+        "name": "Champions League Final Stages"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "29342a2a-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/29342a2a-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Barcelona",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "id": "e735ac30-fb00-11e5-9f2d-525400f795f0",
+      "live": true,
+      "live_statistics": "extended",
+      "livestats": false,
+      "recurring_competition": {
+        "id": "b59766f4-80b4-11e4-844d-5254005a5aa0",
+        "name": "UEFA Champions League",
+        "rank": 1,
+        "region": {
+          "continent": "international",
+          "id": "fb8bad4a-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "International",
+          "type": "continent"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "f52c4122-b50b-11e5-aa5d-525400f795f0",
+          "name": "Bwin.com"
+        },
+        {
+          "id": "5eff5812-418c-11e5-ade9-525400f795f0",
+          "name": "Viaplay.fi"
+        },
+        {
+          "id": "7ceec750-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.dk"
+        },
+        {
+          "id": "1a362f48-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.no"
+        },
+        {
+          "id": "7322bc9a-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.se"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        },
+        {
+          "id": "60dc24ea-e52d-11e5-a352-525400f795f0",
+          "name": "Bwin.fr"
+        },
+        {
+          "id": "0fa40cdc-f4b5-11e4-b40e-5254005a5aa0",
+          "name": "Foxsoccer2go"
+        },
+        {
+          "id": "551a462e-09e0-11e5-b40e-5254005a5aa0",
+          "name": "DR Nu"
+        },
+        {
+          "id": "21a9a470-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "Nc+"
+        },
+        {
+          "id": "6a978054-9bde-11e4-92ee-5254005a5aa0",
+          "name": "Belgacom"
+        },
+        {
+          "id": "9f4a418e-9bdd-11e4-92ee-5254005a5aa0",
+          "name": "Canalplus.es"
+        },
+        {
+          "id": "4a2a92fa-b50c-11e5-aa5d-525400f795f0",
+          "name": "Bwin.dk"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "50f72cc4-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/50f72cc4-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Swindon",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "1fd7f110-14d4-11e5-80d5-5254005a5aa0",
+        "name": "League 1"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "833af3d2-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/833af3d2-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Oldham",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "e758a5a0-14f1-11e5-a5b6-5254005a5aa0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "3c5343f4-82b6-11e4-b34a-5254005a5aa0",
+        "name": "League 1",
+        "rank": 999,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "ffffa5a2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "England",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "ce0b4e94-8f87-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/ce0b4e94-8f87-11e4-904b-5254005a5aa0/50",
+        "name": "Cliftonville",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "4a3db348-249e-11e5-8452-525400f795f0",
+        "name": "Premiership"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "db217d28-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/db217d28-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "Carrick Rangers",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "id": "f870c240-24a1-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4a69f77e-80b5-11e4-b578-5254005a5aa0",
+        "name": "N. Ireland Premiership",
+        "rank": 195,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "000227b4-6c25-11e4-ad3d-5254005a5aa0",
+          "name": "Northern Ireland",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:45:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "4a2a92fa-b50c-11e5-aa5d-525400f795f0",
+          "name": "Bwin.dk"
+        },
+        {
+          "id": "f52c4122-b50b-11e5-aa5d-525400f795f0",
+          "name": "Bwin.com"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        },
+        {
+          "id": "60dc24ea-e52d-11e5-a352-525400f795f0",
+          "name": "Bwin.fr"
+        },
+        {
+          "id": "4f77f4e2-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "William Hill"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "32e2a694-8f85-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/32e2a694-8f85-11e4-904b-5254005a5aa0/50",
+        "name": "Haverfordwest",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "8105bb9e-24a0-11e5-8452-525400f795f0",
+        "name": "Premier Division"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "632f8c56-8f7e-11e4-917f-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/632f8c56-8f7e-11e4-917f-5254005a5aa0/50",
+        "name": "Carmarthen",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "0ed3b43e-bee4-11e5-839c-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "4957084a-80b5-11e4-b578-5254005a5aa0",
+        "name": "Wales Premier Division",
+        "rank": 207,
+        "region": {
+          "alpha2": "GB",
+          "alpha3": "GBR",
+          "continent": "Europe",
+          "id": "00015488-6c25-11e4-ad3d-5254005a5aa0",
+          "name": "Wales",
+          "type": "subdivision"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 18:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "74d944e4-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/74d944e4-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "Al-Ain",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "competition": {
+        "id": "d79a4338-a26f-11e5-88ac-525400f795f0",
+        "name": "AFC Champions League grp. D"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "eae45cf2-9286-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/eae45cf2-9286-11e4-bd79-5254005a5aa0/50",
+        "name": "Al Ahli",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "32d43b56-a28d-11e5-b367-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "398101e8-82c0-11e4-b34a-5254005a5aa0",
+        "name": "AFC Champions League",
+        "rank": 999,
+        "region": {
+          "continent": "international",
+          "id": "fb8bad4a-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "International",
+          "type": "continent"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 17:25:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "4f77f4e2-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "William Hill"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "7cd25a60-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7cd25a60-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Hoffenheim II",
+        "score": {
+          "current": 2,
+          "halftime": 2
+        }
+      },
+      "competition": {
+        "id": "dc71e376-249c-11e5-8452-525400f795f0",
+        "name": "Regionalliga Southwest"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "7bdf9744-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/7bdf9744-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Eintracht Trier",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "2e2c37e6-249f-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "435b0fb8-80b5-11e4-b578-5254005a5aa0",
+        "name": "Regionalliga",
+        "rank": 999,
+        "region": {
+          "alpha2": "DE",
+          "alpha3": "DEU",
+          "continent": "Europe",
+          "id": "fbc30e7a-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Germany",
+          "type": "country"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 17:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "e93d0fca-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e93d0fca-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Zilina",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "14badc08-76f3-11e5-a619-525400f795f0",
+        "name": "FA Cup"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "e9f15eee-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e9f15eee-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Slovan Bratislava",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "5c2683da-f696-11e5-a52d-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "2eef9796-82d2-11e4-b34a-5254005a5aa0",
+        "name": "Slovakia FA Cup",
+        "rank": 130,
+        "region": {
+          "alpha2": "SK",
+          "alpha3": "SVK",
+          "continent": "Europe",
+          "id": "fc0aa942-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Slovakia",
+          "type": "country"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 16:35:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "8ce65b7e-92a8-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/8ce65b7e-92a8-11e4-bd79-5254005a5aa0/50",
+        "name": "Paide Linnameeskond",
+        "score": {
+          "current": 3,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "bd098b72-b1f7-11e5-82a4-525400f795f0",
+        "name": "Meistriliiga"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "8d151b8a-92a8-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/8d151b8a-92a8-11e4-bd79-5254005a5aa0/50",
+        "name": "Trans Narva",
+        "score": {
+          "current": 2,
+          "halftime": 1
+        }
+      },
+      "id": "2d376210-b1f9-11e5-bbb8-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "67f84e6c-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Estonia Meistriliiga",
+        "rank": 999,
+        "region": {
+          "alpha2": "EE",
+          "alpha3": "EST",
+          "continent": "Europe",
+          "id": "fbbaf1c2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Estonia",
+          "type": "country"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 16:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "a36e586e-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/a36e586e-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "AaB",
+        "score": {
+          "current": 4,
+          "halftime": 3
+        }
+      },
+      "competition": {
+        "id": "a5c9874a-24a9-11e5-8452-525400f795f0",
+        "name": "DBU Pokalen"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "bb4e3d0a-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/bb4e3d0a-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "FC Roskilde",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "4fab25e8-891d-11e5-b49d-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "223c8dd6-82c5-11e4-b34a-5254005a5aa0",
+        "name": "DBU Pokalen",
+        "rank": 499,
+        "region": {
+          "alpha2": "DK",
+          "alpha3": "DNK",
+          "continent": "Europe",
+          "id": "fbb5b3c4-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Denmark",
+          "type": "country"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 16:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "551a462e-09e0-11e5-b40e-5254005a5aa0",
+          "name": "DR Nu"
+        },
+        {
+          "id": "7ceec750-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.dk"
+        },
+        {
+          "id": "7322bc9a-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.se"
+        },
+        {
+          "id": "1a362f48-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Viaplay.no"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "473711b0-92a6-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/473711b0-92a6-11e4-bd79-5254005a5aa0/50",
+        "name": "Rakvere JK Tarvas",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "bd098b72-b1f7-11e5-82a4-525400f795f0",
+        "name": "Meistriliiga"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "8d31046c-92a8-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/8d31046c-92a8-11e4-bd79-5254005a5aa0/50",
+        "name": "Levadia Tallinn",
+        "score": {
+          "current": 2,
+          "halftime": 2
+        }
+      },
+      "id": "51db23e0-b1f9-11e5-bbb8-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "67f84e6c-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Estonia Meistriliiga",
+        "rank": 999,
+        "region": {
+          "alpha2": "EE",
+          "alpha3": "EST",
+          "continent": "Europe",
+          "id": "fbbaf1c2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Estonia",
+          "type": "country"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 16:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "22b75a8c-8f83-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/22b75a8c-8f83-11e4-904b-5254005a5aa0/50",
+        "name": "Lech Poznan",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "5409a64c-41a0-11e5-ad15-525400f795f0",
+        "name": "FA Cup"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "9c1eebd2-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/9c1eebd2-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Sosnowiec",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "964743a8-a487-11e5-b314-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "f76f78be-82b7-11e4-b34a-5254005a5aa0",
+        "name": "Poland FA Cup",
+        "rank": 122,
+        "region": {
+          "alpha2": "PL",
+          "alpha3": "POL",
+          "continent": "Europe",
+          "id": "fbfb4e84-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Poland",
+          "type": "country"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 16:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "e7a45ff6-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e7a45ff6-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Debrecen",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "28db7362-249d-11e5-8452-525400f795f0",
+        "name": "NB I"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "e770dc6c-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e770dc6c-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Videoton FC",
+        "score": {
+          "current": 1,
+          "halftime": 1
+        }
+      },
+      "id": "bb3b2a54-249d-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "835f58c6-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Hungary OTP BANK Liga",
+        "rank": 574,
+        "region": {
+          "alpha2": "HU",
+          "alpha3": "HUN",
+          "continent": "Europe",
+          "id": "fbce41d2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Hungary",
+          "type": "country"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 16:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "ed831160-9272-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/ed831160-9272-11e4-bd79-5254005a5aa0/50",
+        "name": "Bunyodkor Tashkent",
+        "score": {
+          "current": 2,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "611fe410-a26f-11e5-9793-525400f795f0",
+        "name": "AFC Champions League grp. B"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "46081848-8f81-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/46081848-8f81-11e4-904b-5254005a5aa0/50",
+        "name": "Zob Ahan",
+        "score": {
+          "current": 5,
+          "halftime": 2
+        }
+      },
+      "id": "453eb752-a289-11e5-b367-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "398101e8-82c0-11e4-b34a-5254005a5aa0",
+        "name": "AFC Champions League",
+        "rank": 999,
+        "region": {
+          "continent": "international",
+          "id": "fb8bad4a-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "International",
+          "type": "continent"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 15:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "4f77f4e2-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "William Hill"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "312ac816-8f82-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/312ac816-8f82-11e4-904b-5254005a5aa0/50",
+        "name": "Al Nassr FC",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "611fe410-a26f-11e5-9793-525400f795f0",
+        "name": "AFC Champions League grp. B"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "31300074-8f82-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/31300074-8f82-11e4-904b-5254005a5aa0/50",
+        "name": "Lekhwiya",
+        "score": {
+          "current": 4,
+          "halftime": 0
+        }
+      },
+      "id": "4572d758-a289-11e5-b367-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "398101e8-82c0-11e4-b34a-5254005a5aa0",
+        "name": "AFC Champions League",
+        "rank": 999,
+        "region": {
+          "continent": "international",
+          "id": "fb8bad4a-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "International",
+          "type": "continent"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 15:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "4f77f4e2-9be4-11e4-ba8e-5254005a5aa0",
+          "name": "William Hill"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "e366e512-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e366e512-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Rijeka",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "3fa130de-6dbb-11e5-a619-525400f795f0",
+        "name": "FA Cup"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "e3a479d6-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/e3a479d6-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Slaven",
+        "score": {
+          "current": 3,
+          "halftime": 1
+        }
+      },
+      "id": "471aaa58-d3ea-11e5-84e0-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "2a0175fe-82c5-11e4-b34a-5254005a5aa0",
+        "name": "Croatia FA Cup",
+        "rank": 514,
+        "region": {
+          "alpha2": "HR",
+          "alpha3": "HRV",
+          "continent": "Europe",
+          "id": "fbb2ce66-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Croatia",
+          "type": "country"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 15:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": [
+        {
+          "id": "8e35a54c-9be6-11e4-84d8-5254005a5aa0",
+          "name": "bet365 Mobile"
+        },
+        {
+          "id": "8ceb67ee-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "bet365"
+        },
+        {
+          "id": "f759edd0-9bd7-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.dk"
+        },
+        {
+          "id": "9285d016-9be8-11e4-84d8-5254005a5aa0",
+          "name": "Unibet Mobile"
+        },
+        {
+          "id": "f6ec5340-9bd9-11e4-92ee-5254005a5aa0",
+          "name": "Unibet.com"
+        },
+        {
+          "id": "3c7d6708-b50d-11e5-aa5d-525400f795f0",
+          "name": "Bwin.de"
+        }
+      ]
+    },
+    {
+      "away": {
+        "id": "0f350426-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0f350426-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Pandurii",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "afa583be-df51-11e5-bd38-525400f795f0",
+        "name": "Liga I Championship Group"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "0e767ad8-8f80-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/0e767ad8-8f80-11e4-904b-5254005a5aa0/50",
+        "name": "Astra Giurgiu",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "4942f20c-df54-11e5-8c27-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "5b55da08-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Romania Liga I",
+        "rank": 199,
+        "region": {
+          "alpha2": "RO",
+          "alpha3": "ROU",
+          "continent": "Europe",
+          "id": "fbfe95d0-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Romania",
+          "type": "country"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 15:30:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "ebc7d77a-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/ebc7d77a-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Sokolov",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "bd6be9e0-249c-11e5-8452-525400f795f0",
+        "name": "FNL"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "f04de136-8f7f-11e4-904b-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/f04de136-8f7f-11e4-904b-5254005a5aa0/50",
+        "name": "Budejovice",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "id": "96f2f946-249e-11e5-8452-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "b7a162c6-82b5-11e4-b34a-5254005a5aa0",
+        "name": "Czech Republic Druha League",
+        "rank": 999,
+        "region": {
+          "alpha2": "CZ",
+          "alpha3": "CZE",
+          "continent": "Europe",
+          "id": "fbb5203a-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Czech Republic",
+          "type": "country"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 15:05:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    },
+    {
+      "away": {
+        "id": "8cbbad16-92a8-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/8cbbad16-92a8-11e4-bd79-5254005a5aa0/50",
+        "name": "Nomme JK Kalju",
+        "score": {
+          "current": 1,
+          "halftime": 0
+        }
+      },
+      "competition": {
+        "id": "bd098b72-b1f7-11e5-82a4-525400f795f0",
+        "name": "Meistriliiga"
+      },
+      "deleted": false,
+      "enabled": true,
+      "home": {
+        "id": "4779541c-92a6-11e4-bd79-5254005a5aa0",
+        "logo": "http://www.livegoals.dk/images/teams/logos/4779541c-92a6-11e4-bd79-5254005a5aa0/50",
+        "name": "P\u00e4rnu",
+        "score": {
+          "current": 0,
+          "halftime": 0
+        }
+      },
+      "id": "5710cd92-b1f9-11e5-bbb8-525400f795f0",
+      "live": true,
+      "livestats": false,
+      "recurring_competition": {
+        "id": "67f84e6c-82b8-11e4-b34a-5254005a5aa0",
+        "name": "Estonia Meistriliiga",
+        "rank": 999,
+        "region": {
+          "alpha2": "EE",
+          "alpha3": "EST",
+          "continent": "Europe",
+          "id": "fbbaf1c2-6c24-11e4-ad3d-5254005a5aa0",
+          "name": "Estonia",
+          "type": "country"
+        }
+      },
+      "start_date": "Tue, 05 Apr 2016 15:00:00 GMT",
+      "status": {
+        "code": "finished",
+        "display": "FT",
+        "type": "finished"
+      },
+      "streams": []
+    }
+  ],
+  "next": 60,
+  "next_request": "http://eurytus.livegoals.dk/api/v1.1/schedule/2016-04-05?next=60&options=streams&locale=en&sport=a0c77e28-69fb-11e4-85c8-5254005a5aa0&rank=999",
+  "request_time": "Thu, 07 Apr 2016 10:51:14 GMT",
+  "sport": {
+    "id": "a0c77e28-69fb-11e4-85c8-5254005a5aa0",
+    "name": "Football"
+  },
+  "total": 73
+}
