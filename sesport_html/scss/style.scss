@@ -1,0 +1,533 @@
+/* Colors http://chir.ag/projects/name-that-color/ */
+
+$color-black: #000000;
+$color-white: #FFFFFF;
+$color-emperor: #555555;
+$color-mine-shaft: #222222;
+$color-christi: #83AD10;
+$color-sushi: #99bc3b;
+$color-tahiti-gold: #ec9307;
+$color-pelorous: #349bcb;
+
+/* fonts */
+$font-serif: 'Bree Serif',
+serif;
+$font-sans: 'Open Sans',
+sans-serif;
+
+/* Animation */
+
+$timescale: 1;
+@function time($duration) {
+  @return $duration * $timescale
+}
+
+
+/* Layout constants */
+
+$content-max-width: 950px;
+$desktop-min-width: 768px;
+$mobile-max-width: 767px;
+@mixin mobile {
+  @media (max-width: #{$mobile-max-width}) {
+    @content;
+  }
+}
+
+@mixin desktop {
+  @media (min-width: #{$desktop-min-width}) {
+    @content;
+  }
+}
+
+html {
+  font-size: 14px;
+}
+
+body {
+  font-family: $font-sans;
+  color: $color-emperor;
+  font-size: 100%;
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a,
+a:visited {
+  color: $color-pelorous;
+  transition: color .25s;
+  text-decoration: none;
+  &:hover,
+  &:focus {
+    color: darken($color-pelorous, 10%);
+    text-decoration: underline;
+  }
+}
+
+
+/* dev stuff */
+main.frontpage {
+//  display: none;
+}
+
+// objects/header.scss
+.o-header {
+  background-image: linear-gradient(to bottom, lighten($color-mine-shaft, 5%) 0%, darken($color-mine-shaft, 0.5%) 100%);
+  background-size: 100%;
+  &__languages {
+    background: $color-mine-shaft;
+    padding-right: 0.75em;
+    > ul {
+      margin: 0;
+      text-align: right;
+      > li {
+        display: inline-block;
+        > a {
+          display: block;
+          padding: 0.3em 0.2em;
+          opacity: 0.5;
+          &:hover,
+          &.is-active {
+            opacity: 1;
+          }
+          > .c-flag {
+            display: block;
+          }
+        }
+      }
+    }
+  }
+  &__main {
+    display: flex;
+    margin: 0 auto;
+    max-width: $content-max-width;
+    justify-content: space-between;
+    align-items: stretch;
+    @include mobile {
+      align-items: center;
+      flex-direction: column;
+    }
+    &__logo {
+      display: flex;
+      width: 100%;
+      align-items: center;
+      padding: 1em 0;
+      background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/368989/logo.png') no-repeat center left;
+      background-size: contain;
+      max-width: 313px;
+      @include mobile {
+        max-width: 200px;
+        background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/368989/sesport-m-f-logo.png') no-repeat center center;
+      }
+      &::before {
+        content: '';
+        padding-top: 20%;
+      }
+    }
+    > nav {
+      display: flex;
+      align-items: stretch;
+      > ul {
+        display: flex;
+        margin: 0;
+        > li {
+          display: inline-flex;
+          > a {
+            display: flex;
+            align-items: center;
+            padding: 1em;
+            @include mobile {
+              padding-top: 0;
+            }
+            color: #6B6B6B;
+            text-decoration: none;
+            text-transform: uppercase;
+            transition: color time(.25s);
+            position: relative;
+            overflow: hidden;
+            &:hover,
+            &:active,
+            &.is-active {
+              color: $color-christi;
+            }
+            &.is-active {
+              &:after {
+                position: absolute;
+                top: 100%;
+                left: 50%;
+                width: 48px;
+                height: 32px;
+                transform: rotate(135deg) translate(40%, 80%);
+                border: 1px solid #b0b0b0;
+                background: linear-gradient(45deg, #b0b0b0 0%, #444444 25%);
+                content: '';
+                transition: width time(.25s), height time(.25s);
+                @include mobile {
+                  width: 24px;
+                  height: 16px;
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+  &__secondary {
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #444444 0%, #333333 100%);
+    border-bottom: 1px solid #000;
+    > ul {
+      margin: 0 auto;
+      max-width: $content-max-width;
+      display: flex;
+      > li {
+        display: inline-flex;
+        > a {
+          display: flex;
+          align-items: center;
+          padding: .5em;
+          color: #b0b0b0;
+          text-decoration: none;
+          transition: color time(.25s), background time(.25s);
+          &:hover,
+          &:active,
+          &.is-active {
+            color: #ccc;
+            background: $color-emperor;
+          }
+        }
+      }
+    }
+  }
+}
+
+// objects/footer.scss
+.o-footer {
+  &__about {
+    background: #353535;
+    > div {
+      max-width: $content-max-width;
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      @include mobile {
+        flex-direction: column;
+      }
+      > nav {
+        flex: 1;
+        > ul {
+          margin: 0;
+          display: flex;
+          @include mobile {
+            justify-content: space-around;
+          }
+          > li {
+            > a {
+              display: inline-block;
+              padding: 1em;
+              text-transform: uppercase;
+              text-decoration: none;
+              white-space: nowrap;
+              color: $color-white;
+            }
+          }
+        }
+      }
+    }
+    &__membership {
+      color: inherit;
+      white-space: nowrap;
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      @include mobile {
+        justify-content: center;
+      }
+      > img {
+        margin: 1em 0;
+        margin-left: 0.5em;
+      }
+    }
+  }
+  &__social {
+    background: #212121;
+    > ul {
+      max-width: $content-max-width;
+      margin: 0 auto;
+      padding: .75em 1em;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+      > li {
+        padding-left: 0.25em;
+        line-height: 0;
+      }
+    }
+  }
+  &__legal {
+    font-size: 0.85em;
+    max-width: $content-max-width;
+    margin: 2em auto;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    @include mobile {
+      align-items: flex-start;
+    }
+    white-space: nowrap;
+    &__responsible {
+      @include mobile {
+        display: none;
+      }
+    }
+    > img {
+      max-width: 37.5%;
+    }
+    > nav {
+      > ul {
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+        @include mobile {
+          flex-direction: column;
+          text-align: center;
+        }
+        > li {
+          > a {
+            white-space: nowrap;
+            margin-left: 0.5em;
+            line-height: 2;
+            text-decoration: none;
+            color: #353535;
+            &:active,
+            &:hover,
+            &.is-active {
+              text-decoration: underline;
+            }
+            > img {
+              vertical-align: middle;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+// components/flag.scss
+.c-flag {
+  display: inline-block;
+  height: 14px;
+  width: 20px;
+  overflow: hidden;
+  color: rgba(0, 0, 0, 0);
+  &--dk {
+    background: url(http://images.sesport.dk/country-flags/denmark-1.png) no-repeat;
+  }
+  &--at {
+    background: url(http://images.sesport.dk/country-flags/austria-1.png) no-repeat;
+  }
+  &--uk {
+    background: url(http://images.sesport.dk/country-flags/uk-1.png) no-repeat;
+  }
+}
+
+// objects/frontpage-hero.scss
+.o-frontpage-hero {
+  background: url('https://s3-us-west-2.amazonaws.com/s.cdpn.io/368989/hero-bg.jpg');
+  background-size: cover;
+  text-align: center;
+  @include desktop {
+    min-height: 420px;
+  }
+  padding: 1.5em 0;
+  box-shadow: 0 0 50px 20px #000 inset;
+  &__title {
+    max-width: $content-max-width;
+    margin: 0 auto .5em;
+    font-family: $font-serif;
+    color: $color-sushi;
+    font-size: 3em;
+    @include mobile {
+      margin-top: 1em;
+      font-size: 6.1vw;
+    }
+    text-shadow: 2px 4px 10px #000;
+  }
+  &__subtitle {
+    @include mobile {
+      display: none;
+    }
+    max-width: $content-max-width;
+    margin: 0 auto;
+    font-family: $font-serif;
+    color: $color-white;
+    font-size: 2em;
+    text-shadow: 2px 4px 10px #000;
+  }
+  &__sports {
+    max-width: $content-max-width;
+    margin: 0.5em auto 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    > a {
+      @include desktop {
+        margin: 0.5em 0.5em;
+      }
+      @include mobile {
+        font-size: 1em;
+        margin: 0.25em 0.25em;
+        line-height: 2.5em;
+        min-width: 40%;
+      }
+    }
+  }
+}
+
+// objects/frontpage-partners.scss
+.o-frontpage-partners {
+  background: #D3D3D3;
+  color: #666;
+  text-align: center;
+  padding: 1em 1em 3em;
+  > header {
+    font-family: $font-serif;
+    text-transform: uppercase;
+    font-size: 1.6em;
+    margin: .1em 0;
+  }
+  > ul {
+    max-width: $content-max-width;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    > li {
+      > a {
+        display: block;
+        padding: 1.2em;
+        @include mobile {
+          font-size: 0.5em;
+        }
+        > img {
+          max-width: 10.4em;
+        }
+      }
+    }
+  }
+}
+
+// objects/frontpage-bottomcta.scss
+.o-frontpage-bottomcta {
+  max-width: $content-max-width;
+  margin: 0 auto;
+  padding: 5em 0 3em;
+  > header {
+    max-width: 91%;
+    margin: 2em auto;
+    font-size: 1.74em;
+    text-align: center;
+  }
+  &__livestreaming {
+    max-width: 80%;
+    margin: 1em auto 2em;
+    @include desktop{ 
+    padding: 0 1.5em 0;
+  }
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    @include mobile {
+      text-align: center;
+      flex-direction: column;
+    }
+    > i {
+      font-size: 13em;
+      flex: 1;
+      text-align: center;
+      color: $color-christi;
+      padding: 0 0.1em;
+    }
+    > section {
+      flex: 2;
+      > header {
+        color: $color-black;
+        font-family: $font-serif;
+        font-size: 2em;
+      }
+      > a {
+        display: block;
+        font-size: 1.2em;
+        padding: 0.25em 0 1em;
+      }
+    }
+  }
+  &__sports {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    > a {
+      flex: 1;
+      margin: 0.2em 0.2em;
+      max-width: 300px;
+    }
+  }
+}
+
+// components/cta.scss
+@mixin c-cta-colors($color) {
+  background: $color;
+  background: linear-gradient(to bottom, $color 0, darken($color, 15%) 100%);
+  border-color: darken($color, 25%);
+  &:hover,
+  :active,
+  :focus {
+    background: darken($color, 15%);
+    background: linear-gradient(to bottom, darken($color, 15%) 0, $color 100%);
+  }
+}
+
+.c-cta {
+  text-align: center;
+  background: lightgrey;
+  display: inline-block;
+  font-size: 2.1em;
+  font-weight: 700;
+  padding: .3em 1.2em;
+  border: 1px solid #c6c6c6;
+  white-space: nowrap;
+  border-radius: 4px;
+  color: $color-emperor;
+  cursor: pointer;
+  box-shadow: 0 0 10px #000;
+  line-height: 1.5;
+
+  &--orange,
+  &--green,
+  &--blue {
+    color: $color-white;
+    &:hover {
+      text-decoration: none;
+      color: $color-white;
+    }
+  }
+  &--green {
+    @include c-cta-colors($color-christi);
+  }
+  &--orange {
+    @include c-cta-colors($color-tahiti-gold);
+  }
+  &--blue {
+    @include c-cta-colors($color-pelorous);
+  }
+}

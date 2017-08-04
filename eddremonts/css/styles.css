@@ -1,0 +1,77 @@
+.body {
+    background: #F7F7F7;
+    color: rgba(44, 44, 44, 0.79);
+}
+
+.head {
+    background: #176AD1;
+    height: 700px;
+    padding-top: 230px;
+    content: '' "
+}
+
+.head small{
+    color: #F7F7F7;
+}
+
+.head .btn-transparent{
+    border: 1px solid white;
+    color: white;
+    background: rgba(255, 255, 255, 0.07);
+    font-size: 25px;
+    padding: 7px 20px;
+}
+
+.index_menu {
+    margin-top: -75px;
+}
+
+.topSeccion {
+    margin: 0;
+    padding: 0;
+    background: #176AD1;
+    -webkit-box-shadow: -2px 26px 72px -8px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: -2px 26px 72px -8px rgba(0, 0, 0, 0.5);
+    box-shadow: -2px 26px 72px -8px rgba(0, 0, 0, 0.5);
+    border-radius: 5px;
+}
+
+.topSeccion > div {
+    color: rgba(44, 44, 44, 0.79);
+    text-align: center;
+    padding-top: 25px;
+    -webkit-transition: width 2s, height 4s; /* Safari */
+    transition: width 4s, height 4s;
+    background: #F7F7F7;
+    border-radius: 0px;
+    height: 140px;
+
+}
+
+.topSeccion > div:first-child {
+    border-radius: 5px 0px 0px 5px;
+
+}
+
+.topSeccion > div:last-child {
+    border-radius: 0px 5px 5px 0px;
+}
+
+.topSeccion > div .glyphicon {
+    font-size: 2.5em;
+}
+
+.topSeccion > div h4 {
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+.topSeccion > div > h4 > smal {
+    font-size: 0.6em;
+    font-weight: 100;
+}
+
+.topSeccion > div:hover {
+    background: #176AD1;
+    color: #F7F7F7;
+}
