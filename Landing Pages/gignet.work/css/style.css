@@ -1,0 +1,115 @@
+html {
+  font-family: Source Sans Pro, sans-serif;
+  font-size: 100%;
+  text-rendering: optimizeLegibility;
+}
+
+body {
+  background-color: #f7f6f2;
+  color: #212121;   
+  background: url("../images/bg.png") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.btn {
+  border: 1px solid #4072FE; /*anchura, estilo y color borde*/
+  padding: 5px 40px; /*espacio alrededor texto*/
+  background-color: #4072FE; /*color botón*/
+  color: #ffffff; /*color texto*/
+  text-decoration: none; /*decoración texto*/
+  text-transform: uppercase; /*capitalización texto*/
+  font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+  border-radius: 50px; /*bordes redondos*/
+  -webkit-box-shadow: 0px 3px 10px -4px #000000;
+  box-shadow: 0px 3px 10px -4px #000000;
+  font-weight: 700;
+}
+
+#exampleInputEmail1, #exampleInputPassword1 {
+  -webkit-box-shadow: 0 0.11111rem 0.55556rem 0 rgba(194, 207, 222, .4);
+  box-shadow: 0 0.11111rem 0.55556rem 0 rgba(194, 207, 222, .4);
+  border: 0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  padding: 25px 15px;
+}
+.small{
+  color: darkgrey;
+  font-size: 8px;
+}
+.top_space {
+  margin-top: 50px;
+}
+.right_text{
+  float: right;
+  color: darkgrey;
+  font-size: 10px;
+  margin-bottom: 25px;
+}
+.middel_space {
+  margin-top: 100px;
+}
+
+.gig_card {
+  -webkit-box-shadow: 0 0.11111rem 0.55556rem 0 rgba(194, 207, 222, .4);
+  box-shadow: 0 0.11111rem 0.55556rem 0 rgba(194, 207, 222, .4);
+  padding: 15px;
+  margin: 0 0px 15px 0px;
+  border-radius: 4px;
+  background: white;
+  min-height: 190px;
+}
+
+.gig_card > h2 {
+  font-size: 18px;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+
+.gig_card > p,  .gig_card > ul{
+  color: darkgrey;
+  font-size: 14px;
+}
+
+.center {
+  text-align: center;
+}
+
+.header_text > h1 {
+  font-weight: 800;
+  font-size: 50px;
+  text-transform: uppercase;
+
+}
+
+.header_text > h3 {
+  font-size: 18px;
+  color: darkgrey;
+}
+
+.top{
+  margin-top: 20px;
+}
+
+.logo{
+  background: #f7f6f2;
+  background-image: url("../images/newlogo1.png");
+  height: 200px;
+  width: 200px;
+  background-repeat: no-repeat;
+}
+a{
+  color: #212121;
+  text-decoration: none;
+}
+a:hover{
+  color: #393939;
+}
+
+.top_space_plus{
+  margin-top: 30px;
+}
