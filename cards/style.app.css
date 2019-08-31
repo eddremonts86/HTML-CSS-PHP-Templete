@@ -1,0 +1,129 @@
+@import url("https://fonts.googleapis.com/css?family=Hind+Madurai|Source+Sans+Pro&display=swap");
+body {
+  background: #f6f6f6;
+  padding: 80px;
+}
+
+hr {
+  margin: 40px;
+}
+
+.card-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.card-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.card {
+  padding: 0;
+  margin: 5px;
+  background: #d8d8d8;
+  max-width: 300px;
+  border-radius: 5px;
+  box-shadow: 13px 32px 36px -14px rgba(179, 179, 179, 0.89);
+}
+.card .card-head {
+  padding: 0px;
+  margin: 0;
+}
+.card .card-head .card-head-title {
+  border-radius: 5px 5px 0px 0px;
+  padding: 10px;
+  background: #2a8bf9;
+  color: white;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Hind Madurai", sans-serif;
+}
+.card .card-head .card-head-content {
+  padding: 10px;
+  font-family: "Source Sans Pro", sans-serif;
+}
+.card .card-body {
+  max-width: 300px;
+  font-family: "Source Sans Pro", sans-serif;
+  border-radius: 0 0 15px 15px;
+}
+.card .card-body .card-body-content {
+  padding: 10px;
+  font-family: "Source Sans Pro", sans-serif;
+  background: #f6f6f6;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+.card .card-body .card-body-media {
+  margin-bottom: -15px;
+}
+.card .card-body .card-body-media img, .card .card-body .card-body-media video {
+  width: 100%;
+  height: 100%;
+}
+.card-min-items {
+  margin: 5px;
+  padding: 0px;
+  border-radius: 20px;
+  max-height: 300px;
+  max-width: 300px;
+  box-shadow: 13px 32px 36px -14px rgba(179, 179, 179, 0.89);
+  transition: 0.3s ease-in;
+}
+.card-min-items img {
+  border-radius: 4px;
+  width: 100%;
+  height: 100%;
+}
+.card-min-items .card-min-content {
+  background: rgba(0, 0, 0, 0.62);
+  color: white;
+  display: none;
+  position: absolute;
+  bottom: 0;
+  padding: 10px;
+}
+
+.card-max-items {
+  min-height: 600px;
+  padding: 0;
+}
+.card-max-items img {
+  border-radius: 15px;
+  box-shadow: 13px 32px 36px -14px rgba(179, 179, 179, 0.89);
+}
+.card-max-items .card-max-content {
+  top: 0;
+  color: white;
+  font-weight: 600;
+  font-size: 45px;
+}
+
+/*--------------------------------------------Animations ------------------------------------------------------*/
+.card-min-items {
+  transition: all 0.25s ease-in-out;
+}
+
+.card-min-items:hover {
+  transform: scale(1.5);
+  box-shadow: 0 0 0 0 transparent;
+}
+.card-min-items:hover img {
+  border-radius: 5px;
+}
+.card-min-items:hover .card-min-content {
+  display: block;
+  border-radius: 0 0 5px 5px;
+}
+
+.card {
+  transition: all 0.3s ease-in-out;
+}
+
+.card:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 0 0 transparent;
+}
+
+/*# sourceMappingURL=style.app.css.map */

@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css?family=Hind+Madurai|Source+Sans+Pro&display=swap');
+
+$blue: #2a8bf9;
+$margin: 16px;
+$paddingCard: 10px;
+$grey: #d8d8d8;
+$white: #f6f6f6;
+$cardMaxWidth: 300px;
+$shadow: 13px 32px 36px -14px hsla(0, 0%, 70%, 0.89);
+$card_min_radius: 20px;
+
+body {
+  background: $white;
+  padding: 80px;
+}
+
+hr {
+  margin: 40px;
+}
+
+.card-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.card-column {
+  display: flex;
+  flex-direction: column;
+}
+
+.card {
+  padding: 0;
+  margin: 5px;
+  background: $grey;
+  max-width: $cardMaxWidth;
+  border-radius: 5px;
+  box-shadow: $shadow;
+
+  .card-head {
+    padding: 0px;
+    margin: 0;
+
+    .card-head-title {
+      border-radius: 5px 5px 0px 0px;
+      padding: $paddingCard;
+      background: $blue;
+      color: white;
+      font-size: 18px;
+      font-weight: 700;
+      font-family: 'Hind Madurai', sans-serif;
+
+    }
+
+    .card-head-content {
+      padding: $paddingCard;
+      font-family: 'Source Sans Pro', sans-serif;
+    }
+  }
+
+  .card-body {
+    max-width: $cardMaxWidth;
+    font-family: 'Source Sans Pro', sans-serif;
+    border-radius: 0 0 15px 15px;
+
+    .card-body-content {
+      padding: $paddingCard;
+      font-family: 'Source Sans Pro', sans-serif;
+      background: $white;
+      padding-top: 25px;
+      padding-bottom: 25px;
+    }
+
+    .card-body-media {
+      margin-bottom: -15px;
+
+      img, video {
+        width: 100%;
+        height: 100%;
+      }
+    }
+
+  }
+
+  .card-footer {
+  }
+}
+
+.card-min-items {
+  margin: 5px;
+  padding: 0px;
+  border-radius: $card_min_radius;
+  max-height: 300px;
+  max-width: 300px;
+  box-shadow: $shadow;
+  transition: .3s ease-in;
+  img {
+    border-radius: $card_min_radius/5;
+    width: 100%;
+    height: 100%;
+  }
+  .card-min-content{
+    background: rgba(0, 0, 0, 0.62);
+    color: white;
+    display: none;
+    position: absolute;
+    bottom: 0;
+    padding: 10px;
+  }
+}
+
+.card-max-items{
+  min-height: 600px;
+  padding: 0;
+  img{
+    border-radius: 15px;
+    box-shadow: $shadow;
+  }
+  .card-max-content{
+     top: 0;
+    color: white;
+    font-weight: 600;
+    font-size: 45px;
+  }
+}
+
+/*--------------------------------------------Animations ------------------------------------------------------*/
+
+
+.card-min-items {
+  transition: all .25s ease-in-out;
+}
+.card-min-items:hover {
+  transform: scale(1.5);
+  box-shadow: 0 0 0 0 transparent;
+  img {
+    border-radius: 5px;
+  }
+  .card-min-content{
+    display: block;
+    border-radius: 0 0 5px 5px;
+  }
+}
+
+.card{
+  transition: all .3s ease-in-out;
+}
+.card:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 0 0 transparent;
+
+}
